@@ -5,6 +5,7 @@
 #include <QTextStream>
 #include <QFile>
 #include <QTimer>
+#include "unistd.h"
 
 
 MainWindow::MainWindow(QWidget *parent)
@@ -84,9 +85,13 @@ void MainWindow::setValueAt(int ix,int jx, const QString &value )
 void MainWindow::on_pushButton_clicked()
 {
     QString val = ui->tableView->currentIndex().data().toString();
+    QString userName = getlogin();
 
-        player ->setMedia(QUrl::fromLocalFile("/home/gabrielgh/Proyecto1/000/" + val+".mp3"));
-        //player ->setMedia(QUrl::fromLocalFile("/Qt/OdisseyRadio/Datos2/Datos2/000/" + val+".mp3"));
+        //player ->setMedia(QUrl::fromLocalFile("/home/+userName+/Proyecto1/000/" + val+".mp3"));
+        player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Qt/OdisseyRadio/Datos2/Datos2/000/" + val+".mp3"));
+
+        //URL deseada
+        //player ->setMedia(QUrl::fromLocalFile("/home/+userName+/Proyecto1/Datos2/000/" + val+".mp3"));
         player ->play();
 
 
@@ -125,9 +130,10 @@ void MainWindow::on_durationChanged(qint64 position){
 void MainWindow::on_tableView_activated(const QModelIndex &index)
 {
     QString val = ui->tableView->currentIndex().data().toString();
+    QString userName = getlogin();
     if (val == "Food");
-    player ->setMedia(QUrl::fromLocalFile("/home/gabrielgh/Proyecto1/000/"+ val +".mp3"));
-    //player ->setMedia(QUrl::fromLocalFile("/home/gabrielgh/Proyecto1/000/"+ val +".mp3"));
+    //player ->setMedia(QUrl::fromLocalFile("/home/+userName+/Proyecto1/000/"+ val +".mp3"));
+    player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Qt/OdisseyRadio/Datos2/Datos2/000/" + val+".mp3"));
     player ->play();
 
 }
