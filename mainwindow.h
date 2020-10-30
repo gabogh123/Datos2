@@ -4,6 +4,7 @@
 #include <QMainWindow>
 #include <QMediaPlayer>
 #include <QDebug>
+#include "memorymanager.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
@@ -19,6 +20,7 @@ class MainWindow : public QMainWindow
 public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
+    MemoryManager *mManager;
 
 private slots:
     void on_actionAbrir_triggered();
@@ -37,10 +39,13 @@ private slots:
 
     void on_tableView_activated(const QModelIndex &index);
 
+    void runMemUsage();
+
 private:
     Ui::MainWindow *ui;
     QStandardItemModel *mModel;
     QMediaPlayer* player;
     void setValueAt(int ix, int jx, const QString &value);
+    int convertToint(double);
 };
 #endif // MAINWINDOW_H

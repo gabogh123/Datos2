@@ -4,6 +4,7 @@
 #include <QFileDialog>
 #include <QTextStream>
 #include <QFile>
+#include <QTimer>
 
 
 MainWindow::MainWindow(QWidget *parent)
@@ -11,6 +12,7 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    mManager = new MemoryManager(this);
     mModel = new QStandardItemModel(this);
     ui->tableView->setModel(mModel);
     setWindowTitle("OdisseyRadio");
@@ -19,6 +21,12 @@ MainWindow::MainWindow(QWidget *parent)
 
     connect(player, &QMediaPlayer:: positionChanged, this, &MainWindow::on_positionChanged);
     connect(player, &QMediaPlayer:: durationChanged, this, &MainWindow::on_durationChanged);
+
+    ui->progressBar->setValue(0);
+
+    QTimer *timer = new QTimer(this);
+    connect(timer, &QTimer::timeout, this, &MainWindow::runMemUsage);
+    timer->start(2000);
 
 
 
@@ -78,6 +86,7 @@ void MainWindow::on_pushButton_clicked()
     QString val = ui->tableView->currentIndex().data().toString();
 
         player ->setMedia(QUrl::fromLocalFile("/home/gabrielgh/Proyecto1/000/" + val+".mp3"));
+        //player ->setMedia(QUrl::fromLocalFile("/Qt/OdisseyRadio/Datos2/Datos2/000/" + val+".mp3"));
         player ->play();
 
 
@@ -118,6 +127,25 @@ void MainWindow::on_tableView_activated(const QModelIndex &index)
     QString val = ui->tableView->currentIndex().data().toString();
     if (val == "Food");
     player ->setMedia(QUrl::fromLocalFile("/home/gabrielgh/Proyecto1/000/"+ val +".mp3"));
+    //player ->setMedia(QUrl::fromLocalFile("/home/gabrielgh/Proyecto1/000/"+ val +".mp3"));
     player ->play();
 
+}
+
+void MainWindow::runMemUsage()
+{
+    double vm,rss;
+    mManager->proccesMemoryUsage(vm,rss);
+    int max = 7933524;
+    int value = convertToint(vm);
+    ui->progressBar->setMaximum(max);
+    ui->progressBar->setValue(value);
+}
+
+int MainWindow::convertToint(double db)
+{
+    double x = db;
+    x = x + 0.5 - (x<0);
+    int y = (int)x;
+    return y;
 }
