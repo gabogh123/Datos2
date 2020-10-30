@@ -76,10 +76,10 @@ void MainWindow::setValueAt(int ix,int jx, const QString &value )
 void MainWindow::on_pushButton_clicked()
 {
     QString val = ui->tableView->currentIndex().data().toString();
-    if (val == "Food"){
-        player ->setMedia(QUrl::fromLocalFile("/home/gabrielgh/Proyecto1/000/food.mp3"));
+
+        player ->setMedia(QUrl::fromLocalFile("/home/gabrielgh/Proyecto1/000/" + val+".mp3"));
         player ->play();
-    }
+
 
    // player ->setMedia(QUrl::fromLocalFile("/home/gabrielgh/Proyecto1/000/food.mp3"));
    //´ player ->play();
