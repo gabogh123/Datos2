@@ -5,6 +5,7 @@
 #include <QTextStream>
 #include <QFile>
 
+
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
     , ui(new Ui::MainWindow)
@@ -74,9 +75,14 @@ void MainWindow::setValueAt(int ix,int jx, const QString &value )
 
 void MainWindow::on_pushButton_clicked()
 {
-    player ->setMedia(QUrl::fromLocalFile("/home/gabrielgh/Proyecto1/000/000002.mp3"));
-    player ->play();
-    qDebug() <<player->errorString();
+    QString val = ui->tableView->currentIndex().data().toString();
+    if (val == "Food"){
+        player ->setMedia(QUrl::fromLocalFile("/home/gabrielgh/Proyecto1/000/food.mp3"));
+        player ->play();
+    }
+
+   // player ->setMedia(QUrl::fromLocalFile("/home/gabrielgh/Proyecto1/000/food.mp3"));
+   //´ player ->play();
 }
 
 void MainWindow::on_pushButton_2_clicked()
@@ -105,4 +111,13 @@ void MainWindow::on_positionChanged(qint64 position){
 void MainWindow::on_durationChanged(qint64 position){
 
     ui->horizontalSlider->setMaximum(position);
+}
+
+void MainWindow::on_tableView_activated(const QModelIndex &index)
+{
+    QString val = ui->tableView->currentIndex().data().toString();
+    if (val == "Food");
+    player ->setMedia(QUrl::fromLocalFile("/home/gabrielgh/Proyecto1/000/"+ val +".mp3"));
+    player ->play();
+
 }
