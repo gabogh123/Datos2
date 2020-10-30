@@ -16,6 +16,10 @@ MainWindow::MainWindow(QWidget *parent)
 
     player = new QMediaPlayer(this);
 
+    connect(player, &QMediaPlayer:: positionChanged, this, &MainWindow::on_positionChanged);
+    connect(player, &QMediaPlayer:: durationChanged, this, &MainWindow::on_durationChanged);
+
+
 
 }
 
@@ -83,4 +87,22 @@ void MainWindow::on_pushButton_2_clicked()
 void MainWindow::on_verticalSlider_sliderMoved(int position)
 {
     player -> setVolume(position);
+}
+
+void MainWindow::on_horizontalSlider_sliderMoved(int position)
+{
+    player ->setPosition(position);
+
+}
+
+void MainWindow::on_positionChanged(qint64 position){
+
+    ui->horizontalSlider->setValue(position);
+}
+
+
+
+void MainWindow::on_durationChanged(qint64 position){
+
+    ui->horizontalSlider->setMaximum(position);
 }
