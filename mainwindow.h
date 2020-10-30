@@ -23,6 +23,12 @@ public:
 private slots:
     void on_actionAbrir_triggered();
 
+    void on_pushButton_clicked();
+
+    void on_pushButton_2_clicked();
+
+    void on_verticalSlider_sliderMoved(int position);
+
 private:
     Ui::MainWindow *ui;
     QStandardItemModel *mModel;

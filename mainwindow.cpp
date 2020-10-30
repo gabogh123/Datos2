@@ -13,6 +13,10 @@ MainWindow::MainWindow(QWidget *parent)
     mModel = new QStandardItemModel(this);
     ui->tableView->setModel(mModel);
     setWindowTitle("OdisseyRadio");
+
+    player = new QMediaPlayer(this);
+
+
 }
 
 MainWindow::~MainWindow()
@@ -62,4 +66,21 @@ void MainWindow::setValueAt(int ix,int jx, const QString &value )
 
     }
 
+}
+
+void MainWindow::on_pushButton_clicked()
+{
+    player ->setMedia(QUrl::fromLocalFile("/home/gabrielgh/Proyecto1/000/000002.mp3"));
+    player ->play();
+    qDebug() <<player->errorString();
+}
+
+void MainWindow::on_pushButton_2_clicked()
+{
+    player->stop();
+}
+
+void MainWindow::on_verticalSlider_sliderMoved(int position)
+{
+    player -> setVolume(position);
 }
