@@ -87,16 +87,14 @@ void MainWindow::on_pushButton_clicked()
     QString val = ui->tableView->currentIndex().data().toString();
     QString userName = getlogin();
 
-        //player ->setMedia(QUrl::fromLocalFile("/home/+userName+/Proyecto1/000/" + val+".mp3"));
-        player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Qt/OdisseyRadio/Datos2/Datos2/000/" + val+".mp3"));
+        player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Proyecto1/Canciones/" + val+".mp3"));
+        //player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Qt/OdisseyRadio/Datos2/Datos2/000/" + val+".mp3"));
 
         //URL deseada
         //player ->setMedia(QUrl::fromLocalFile("/home/+userName+/Proyecto1/Datos2/000/" + val+".mp3"));
         player ->play();
 
 
-   // player ->setMedia(QUrl::fromLocalFile("/home/gabrielgh/Proyecto1/000/food.mp3"));
-   //´ player ->play();
 }
 
 void MainWindow::on_pushButton_2_clicked()
