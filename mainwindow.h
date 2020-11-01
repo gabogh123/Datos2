@@ -37,8 +37,6 @@ private slots:
 
     void on_durationChanged(qint64 position);
 
-    void on_tableView_activated(const QModelIndex &index);
-
     void runMemUsage();
 
 private:

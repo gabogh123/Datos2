@@ -1,3 +1,7 @@
+/**
+* Se incluyen las librerias necesarias para el funcionamiento del programa
+*/
+
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include <QStandardItemModel>
@@ -6,6 +10,7 @@
 #include <QFile>
 #include <QTimer>
 #include "unistd.h"
+#include <limits>
 
 
 MainWindow::MainWindow(QWidget *parent)
@@ -16,6 +21,11 @@ MainWindow::MainWindow(QWidget *parent)
     mManager = new MemoryManager(this);
     mModel = new QStandardItemModel(this);
     ui->tableView->setModel(mModel);
+    ui->tableView->setStyleSheet("QHeaderView::section { background-color:red }");
+    ui->tableView->setEditTriggers(QAbstractItemView :: NoEditTriggers);
+
+
+
     setWindowTitle("OdisseyRadio");
 
     player = new QMediaPlayer(this);
@@ -125,16 +135,6 @@ void MainWindow::on_durationChanged(qint64 position){
     ui->horizontalSlider->setMaximum(position);
 }
 
-void MainWindow::on_tableView_activated(const QModelIndex &index)
-{
-    QString val = ui->tableView->currentIndex().data().toString();
-    QString userName = getlogin();
-    if (val == "Food");
-    //player ->setMedia(QUrl::fromLocalFile("/home/+userName+/Proyecto1/000/"+ val +".mp3"));
-    player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Qt/OdisseyRadio/Datos2/Datos2/000/" + val+".mp3"));
-    player ->play();
-
-}
 
 void MainWindow::runMemUsage()
 {
