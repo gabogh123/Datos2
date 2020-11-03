@@ -1,6 +1,8 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
+/// Se incluyen las librerias necesarias
+
 #include <QMainWindow>
 #include <QMediaPlayer>
 #include <QDebug>
@@ -10,8 +12,17 @@ QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
 QT_END_NAMESPACE
 
+/**
+ *Se inicializa la clase StandarItemModel para los valores del modelo del tableView
+ */
+
 class QStandardItemModel;
 
+
+/**
+ * @brief The MainWindow class
+ *
+ */
 
 class MainWindow : public QMainWindow
 {
@@ -21,6 +32,8 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
     MemoryManager *mManager;
+
+///Se inicializan los métodos a utilizar en el main window
 
 private slots:
     void on_actionAbrir_triggered();
@@ -39,6 +52,8 @@ private slots:
 
     void runMemUsage();
 
+
+/// Se crean las variables y objetos a utilizar en el main window
 private:
     Ui::MainWindow *ui;
     QStandardItemModel *mModel;
