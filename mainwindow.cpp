@@ -45,14 +45,17 @@ MainWindow::MainWindow(QWidget *parent)
     connect(player, &QMediaPlayer:: positionChanged, this, &MainWindow::on_positionChanged);
     connect(player, &QMediaPlayer:: durationChanged, this, &MainWindow::on_durationChanged);
 
-/// Barra de progreso de la canció incializada en 0 para que incremente
+/// Barra de progreso de la canción incializada en 0 para que incremente
 
     ui->progressBar->setValue(0);
 
-
+/// Timer para que cada dos segundos se ejecute la funcion del uso de memoria
     QTimer *timer = new QTimer(this);
     connect(timer, &QTimer::timeout, this, &MainWindow::runMemUsage);
     timer->start(2000);
+
+/// Contador para pasar de pagina
+    t_count = 1;
 
 
 
@@ -76,37 +79,64 @@ void MainWindow::on_actionAbrir_triggered()
 /// Accede a los archivos del sistema
 
     auto filename = QFileDialog:: getOpenFileName(this,
-            "Abrir", QDir::rootPath(), "CSV File(*.csv)" );
+            "Abrir", "/home", "CSV File(*.csv)" );
     if(filename.isEmpty()){
         return;
     }
 
+    file = new QFile(filename);
+
+/// Carga la pagina
+    loadPage(15);
+}
+
+void MainWindow::loadPage(int size)
+{
 /// Carga el archivo del nombre que sea seleccionado y si estos son de solo lectura o texto, son abiertos
-
-    QFile file(filename);
-    if (!file.open(QIODevice::ReadOnly|QIODevice::Text)){
-        return;
+    if (!file->open(QIODevice::ReadOnly|QIODevice::Text)){
+            return;
     }
-
 /// Se inicializa el contador para recorrer las filas del archivo
-
-    QTextStream xin(&file);
+    QTextStream xin(file);
+    int i = 0;
     int ix = 0;
-    while (!xin.atEnd()) {
 
-///Se asigna el valor del contador a la cantidad de filas del .csv y se le asignan al model creado
-        mModel->setRowCount(ix);
+/// Carga la primera pagina
+    if(t_count==1){
+    while(i<size){
+
         auto line =xin.readLine(); ///Lee la linea de la posición en la que se encuentre
         auto values = line.split(","); ///Si en dicha posició hay una "," se realiza un salto de linea
+
         const int colCount= values.size();
+
+/// Se asigna el valor del contador a la cantidad de filas del .csv y se le asignan al model creado
+        mModel->setRowCount(ix);
         mModel->setColumnCount(colCount); ///Asigna el valor de la cantida de columnas al modelo
-        for (int jx=0;jx<colCount ;++jx ) { ///For para recorrer las columnas de la tabla
-            setValueAt(ix,jx, values.at(jx));
+        for (int jx=0;jx<colCount ;++jx ) {
+            setValueAt(ix,jx,values.at(jx));
         }
         ++ix; /// al terminar con la columna actual pasa a la siguente fila
+        ++i;
+    }}
 
-    }
-    file.close();
+/// Carga la pagina dependiendo el numero de pagina
+    if(t_count>1){
+    while(i<size*t_count){
+        auto line =xin.readLine();
+        auto values = line.split(",");
+        const int colCount= values.size();
+
+        mModel->setRowCount(ix);
+        mModel->setColumnCount(colCount);
+        for (int jx=0;jx<colCount ;++jx ) {
+            setValueAt(ix,jx,values.at(jx));
+        }
+        ++ix;
+        ++i;
+    }}
+    file->close();
+
 }
 
 /**
@@ -139,14 +169,9 @@ void MainWindow::on_pushButton_clicked()
     QString userName = getlogin(); /// Obtiene el login del PC para que funcione en muchos equipos
 
 
-    player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Proyecto1/Canciones/" + val+".mp3")); /// Obtiene la dirección del archivo .mp3 y reproduce el archivo del nombre igual a la variable val
-
-
-    //player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Qt/OdisseyRadio/Datos2/Datos2/000/" + val+".mp3"));
+    //player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Proyecto1/Canciones/" + val+".mp3")); /// Obtiene la dirección del archivo .mp3 y reproduce el archivo del nombre igual a la variable val
     //URL deseada
-
-
-    //player ->setMedia(QUrl::fromLocalFile("/home/+userName+/Proyecto1/Datos2/000/" + val+".mp3"));
+    player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Proyecto1/Datos2/Canciones/" + val+".mp3"));
 
     player ->play(); /// El MediaPlayer reproduce la cancion
 
@@ -223,7 +248,7 @@ void MainWindow::runMemUsage()
 /**
  * @brief MainWindow::convertToint
  * @param db
- * @return
+ * @return conversion
  */
 
 int MainWindow::convertToint(double db)
@@ -234,3 +259,22 @@ int MainWindow::convertToint(double db)
     return y;
 }
 
+/**
+ * @brief MainWindow::on_pushButton_4_clicked
+ * Carga la pagina anterior
+ */
+void MainWindow::on_pushButton_4_clicked()
+{
+    t_count -=1;
+    loadPage(15);
+}
+
+/**
+ * @brief MainWindow::on_pushButton_3_clicked
+ * Proporciona la siguiente pagina
+ */
+void MainWindow::on_pushButton_3_clicked()
+{
+    t_count +=1;
+    loadPage(15);
+}

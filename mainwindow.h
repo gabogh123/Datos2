@@ -6,6 +6,7 @@
 #include <QMainWindow>
 #include <QMediaPlayer>
 #include <QDebug>
+#include <QFile>
 #include "memorymanager.h"
 
 QT_BEGIN_NAMESPACE
@@ -54,11 +55,18 @@ private slots:
 
 
 /// Se crean las variables y objetos a utilizar en el main window
+    void on_pushButton_4_clicked();
+
+    void on_pushButton_3_clicked();
+
 private:
     Ui::MainWindow *ui;
     QStandardItemModel *mModel;
     QMediaPlayer* player;
     void setValueAt(int ix, int jx, const QString &value);
     int convertToint(double);
+    void loadPage(int);
+    QFile* file;
+    int t_count;
 };
 #endif // MAINWINDOW_H
