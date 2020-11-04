@@ -303,10 +303,11 @@ void MainWindow::on_pushButton_3_clicked()
 void MainWindow::on_pushButton_5_clicked()
 {
     if(paginate==true){
-        ui->pushButton_5->setText("paginate");
+        ui->pushButton_5->setText("No paginate");
         paginate = false;
         loadPage(15);
     }else{
+        ui->pushButton_5->setText("Paginate");
         paginate = true;
         loadPage(15);
     }
