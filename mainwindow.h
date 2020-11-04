@@ -59,6 +59,8 @@ private slots:
 
     void on_pushButton_3_clicked();
 
+    void on_pushButton_5_clicked();
+
 private:
     Ui::MainWindow *ui;
     QStandardItemModel *mModel;
@@ -68,5 +70,6 @@ private:
     void loadPage(int);
     QFile* file;
     int t_count;
+    bool paginate;
 };
 #endif // MAINWINDOW_H

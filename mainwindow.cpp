@@ -57,8 +57,8 @@ MainWindow::MainWindow(QWidget *parent)
 /// Contador para pasar de pagina
     t_count = 1;
 
-
-
+/// Modo paginacion
+    paginate = true;
 }
 
 MainWindow::~MainWindow()
@@ -135,6 +135,23 @@ void MainWindow::loadPage(int size)
         ++ix;
         ++i;
     }}
+
+/// Carga la pagina dependiendo el numero de pagina
+///
+        if(!paginate){
+        while(!xin.atEnd()){
+            auto line =xin.readLine();
+            auto values = line.split(",");
+            const int colCount= values.size();
+
+            mModel->setRowCount(ix);
+            mModel->setColumnCount(colCount);
+            for (int jx=0;jx<colCount ;++jx ) {
+                setValueAt(ix,jx,values.at(jx));
+            }
+            ++ix;
+            ++i;
+        }}
     file->close();
 
 }
@@ -277,4 +294,20 @@ void MainWindow::on_pushButton_3_clicked()
 {
     t_count +=1;
     loadPage(15);
+}
+
+/**
+ * @brief MainWindow::on_pushButton_5_clicked
+ * Modo paginacion o no paginacion activado
+ */
+void MainWindow::on_pushButton_5_clicked()
+{
+    if(paginate==true){
+        ui->pushButton_5->setText("paginate");
+        paginate = false;
+        loadPage(15);
+    }else{
+        paginate = true;
+        loadPage(15);
+    }
 }
