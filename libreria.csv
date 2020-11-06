@@ -1,0 +1,757 @@
+track_id,album comments,album date_created,album date_released,album favorites,album id,album listens,album title,album tracks,album type,artist date_created,artist favorites,artist id,artist location,track bit_rate,track duration,track genre_top,track title
+2,0,2008-11-26 01:44:45,2009-01-05 00:00:00,4,1,6073,AWOL - A Way Of Life,7,Album,2008-11-26 01:42:32,9,1,New Jersey,256000,168,Hip-Hop,Food
+3,0,2008-11-26 01:44:45,2009-01-05 00:00:00,4,1,6073,AWOL - A Way Of Life,7,Album,2008-11-26 01:42:32,9,1,New Jersey,256000,237,Hip-Hop,Electric Ave
+5,0,2008-11-26 01:44:45,2009-01-05 00:00:00,4,1,6073,AWOL - A Way Of Life,7,Album,2008-11-26 01:42:32,9,1,New Jersey,256000,206,Hip-Hop,This World
+10,0,2008-11-26 01:45:08,2008-02-06 00:00:00,4,6,47632,Constant Hitmaker,2,Album,2008-11-26 01:42:55,74,6,,192000,161,Pop,Freeway
+20,0,2008-11-26 01:45:05,2009-01-06 00:00:00,2,4,2710,Niris,13,Album,2008-11-26 01:42:52,10,4,Colchester England,256000,311,,Spiritual Level
+26,0,2008-11-26 01:45:05,2009-01-06 00:00:00,2,4,2710,Niris,13,Album,2008-11-26 01:42:52,10,4,Colchester England,256000,181,,Where is your Love?
+30,0,2008-11-26 01:45:05,2009-01-06 00:00:00,2,4,2710,Niris,13,Album,2008-11-26 01:42:52,10,4,Colchester England,256000,174,,Too Happy
+46,0,2008-11-26 01:45:05,2009-01-06 00:00:00,2,4,2710,Niris,13,Album,2008-11-26 01:42:52,10,4,Colchester England,256000,104,,Yosemite
+48,0,2008-11-26 01:45:05,2009-01-06 00:00:00,2,4,2710,Niris,13,Album,2008-11-26 01:42:52,10,4,Colchester England,256000,205,,Light of Light
+134,0,2008-11-26 01:44:45,2009-01-05 00:00:00,4,1,6073,AWOL - A Way Of Life,7,Album,2008-11-26 01:42:32,9,1,New Jersey,256000,207,Hip-Hop,Street Music
+135,1,2008-11-26 01:49:19,2009-01-07 00:00:00,0,58,3331,mp3,4,Single Tracks,2008-11-26 01:47:07,0,52,,256000,837,Rock,Father's Day
+136,1,2008-11-26 01:49:19,2009-01-07 00:00:00,0,58,3331,mp3,4,Single Tracks,2008-11-26 01:47:07,0,52,,256000,509,Rock,Peel Back The Mountain Sky
+137,1,2008-11-26 01:49:35,2006-12-01 00:00:00,2,59,1681,Live at LACE,2,Live Performance,2008-11-26 01:47:22,5,53,Los Angeles CA,256000,1233,Experimental,Side A
+138,1,2008-11-26 01:49:35,2006-12-01 00:00:00,2,59,1681,Live at LACE,2,Live Performance,2008-11-26 01:47:22,5,53,Los Angeles CA,256000,1231,Experimental,Side B
+139,0,2008-11-26 01:49:57,2009-01-16 00:00:00,1,60,1304,Every Man For Himself,2,Album,2008-11-26 01:47:44,11,54,Providence RI,128000,296,Folk,CandyAss
+140,1,2008-11-26 01:49:59,2007-05-22 00:00:00,1,61,1300,The Blind Spot,1,Album,2008-11-26 01:47:44,11,54,Providence RI,128000,253,Folk,Queen Of The Wires
+141,0,2008-11-26 01:49:57,2009-01-16 00:00:00,1,60,1304,Every Man For Himself,2,Album,2008-11-26 01:47:44,11,54,Providence RI,128000,182,Folk,Ohio
+142,0,2008-11-26 01:50:03,2005-01-25 00:00:00,1,62,845,The Quiet Room,1,Album,2008-11-26 01:47:44,11,54,Providence RI,128000,470,Folk,Punjabi Watery Grave
+144,0,2008-11-26 01:50:07,2009-01-06 00:00:00,0,64,2014,Amoebiasis,0,Album,2008-11-26 01:47:54,7,56,Providence RI,256000,82,Jazz,Wire Up
+145,0,2008-11-26 01:50:07,2009-01-06 00:00:00,0,64,2014,Amoebiasis,0,Album,2008-11-26 01:47:54,7,56,Providence RI,256000,326,Jazz,Amoebiasis
+146,0,2008-11-26 01:50:13,1995-01-01 00:00:00,1,65,1446,Limbic Rage,0,Album,2008-11-26 01:47:54,7,56,Providence RI,256000,354,Jazz,Gimme a Buck or I'll Touch You / Boilermaker
+147,0,2008-11-26 01:50:13,1995-01-01 00:00:00,1,65,1446,Limbic Rage,0,Album,2008-11-26 01:47:54,7,56,Providence RI,256000,232,Jazz,Repetitive Motion Sickness
+148,0,2008-11-26 01:50:19,2009-01-15 00:00:00,0,66,1831,Contradiction,1,Album,2008-11-26 01:48:05,0,57,Chicago IL,256000,138,Experimental,Blackout 2
+149,0,2008-11-26 01:50:25,2009-01-09 00:00:00,0,67,858,Two Gong/Wire Pieces,2,Album,2008-11-26 01:48:10,1,58,Baltimore MD,287639,988,Experimental,Outside the window bees buzzed...
+150,0,2008-11-26 01:50:25,2009-01-09 00:00:00,0,67,858,Two Gong/Wire Pieces,2,Album,2008-11-26 01:48:10,1,58,Baltimore MD,282817,1182,Experimental,... listening to the sunshine burn the grass
+151,0,2008-11-26 01:50:46,2009-01-06 00:00:00,0,68,244,Make Them Suffer,2,Album,2008-11-26 01:48:32,0,59,Portland OR,192000,192,Rock,Untitled 04
+152,0,2008-11-26 01:50:46,2009-01-06 00:00:00,0,68,244,Make Them Suffer,2,Album,2008-11-26 01:48:32,0,59,Portland OR,192000,193,Rock,Untitled 11
+153,0,2008-11-26 01:50:50,2005-06-07 00:00:00,0,69,628,Arc and Sender,2,Album,2008-11-26 01:48:36,0,60,Philadelphia PA,256000,405,Rock,Hundred-Year Flood
+154,0,2008-11-26 01:50:50,2005-06-07 00:00:00,0,69,628,Arc and Sender,2,Album,2008-11-26 01:48:36,0,60,Philadelphia PA,256000,319,Rock,Squares And Circles
+155,0,2008-11-26 01:51:00,2009-01-06 00:00:00,0,70,197,unreleased demo,1,Single Tracks,2008-11-26 01:48:36,0,60,Philadelphia PA,192000,756,Rock,Maps of the Stars Homes
+156,1,2008-11-26 01:51:08,2004-01-01 00:00:00,0,71,1845,Thee Haunted Cobblestone Sunset Concert Series #7,13,Live Performance,2008-12-04 09:19:48,9,546,2 Westwood Avenue Providence RI 02905 USA,192000,122,Experimental,Track 01
+157,1,2008-11-26 01:51:08,2004-01-01 00:00:00,0,71,1845,Thee Haunted Cobblestone Sunset Concert Series #7,13,Live Performance,2008-12-04 09:19:48,9,546,2 Westwood Avenue Providence RI 02905 USA,192000,212,Experimental,Track 02
+158,1,2008-11-26 01:51:08,2004-01-01 00:00:00,0,71,1845,Thee Haunted Cobblestone Sunset Concert Series #7,13,Live Performance,2008-12-04 09:19:48,9,546,2 Westwood Avenue Providence RI 02905 USA,192000,473,Experimental,Track 03
+159,1,2008-11-26 01:51:08,2004-01-01 00:00:00,0,71,1845,Thee Haunted Cobblestone Sunset Concert Series #7,13,Live Performance,2008-12-04 09:19:48,9,546,2 Westwood Avenue Providence RI 02905 USA,192000,221,Experimental,Track 04
+160,1,2008-11-26 01:51:08,2004-01-01 00:00:00,0,71,1845,Thee Haunted Cobblestone Sunset Concert Series #7,13,Live Performance,2008-12-04 09:19:48,9,546,2 Westwood Avenue Providence RI 02905 USA,192000,70,Experimental,Track 05
+161,1,2008-11-26 01:51:08,2004-01-01 00:00:00,0,71,1845,Thee Haunted Cobblestone Sunset Concert Series #7,13,Live Performance,2008-12-04 09:19:48,9,546,2 Westwood Avenue Providence RI 02905 USA,192000,147,Experimental,Track 06
+162,1,2008-11-26 01:51:08,2004-01-01 00:00:00,0,71,1845,Thee Haunted Cobblestone Sunset Concert Series #7,13,Live Performance,2008-12-04 09:19:48,9,546,2 Westwood Avenue Providence RI 02905 USA,192000,270,Experimental,Track 07
+163,1,2008-11-26 01:51:08,2004-01-01 00:00:00,0,71,1845,Thee Haunted Cobblestone Sunset Concert Series #7,13,Live Performance,2008-12-04 09:19:48,9,546,2 Westwood Avenue Providence RI 02905 USA,192000,307,Experimental,Track 08
+164,1,2008-11-26 01:51:08,2004-01-01 00:00:00,0,71,1845,Thee Haunted Cobblestone Sunset Concert Series #7,13,Live Performance,2008-12-04 09:19:48,9,546,2 Westwood Avenue Providence RI 02905 USA,192000,236,Experimental,Track 09
+165,1,2008-11-26 01:51:08,2004-01-01 00:00:00,0,71,1845,Thee Haunted Cobblestone Sunset Concert Series #7,13,Live Performance,2008-12-04 09:19:48,9,546,2 Westwood Avenue Providence RI 02905 USA,192000,185,Experimental,Track 10
+166,1,2008-11-26 01:51:08,2004-01-01 00:00:00,0,71,1845,Thee Haunted Cobblestone Sunset Concert Series #7,13,Live Performance,2008-12-04 09:19:48,9,546,2 Westwood Avenue Providence RI 02905 USA,192000,392,Experimental,Track 11
+167,1,2008-11-26 01:51:08,2004-01-01 00:00:00,0,71,1845,Thee Haunted Cobblestone Sunset Concert Series #7,13,Live Performance,2008-12-04 09:19:48,9,546,2 Westwood Avenue Providence RI 02905 USA,192000,278,Experimental,Track 12
+168,1,2008-11-26 01:51:08,2004-01-01 00:00:00,0,71,1845,Thee Haunted Cobblestone Sunset Concert Series #7,13,Live Performance,2008-12-04 09:19:48,9,546,2 Westwood Avenue Providence RI 02905 USA,192000,60,Experimental,Track 13
+169,0,2008-11-26 01:51:48,2008-06-23 00:00:00,0,72,716,Boss of Goth,4,Single Tracks,2008-11-26 01:49:33,2,62,Portland OR,192000,144,Rock,Boss of Goth
+170,0,2008-11-26 01:51:50,2007-01-01 00:00:00,0,73,193,Nightmarcher,2,Single Tracks,2008-11-26 01:49:33,2,62,Portland OR,192000,181,Rock,Industry Standard Massacre
+171,0,2008-11-26 01:51:52,2009-01-06 00:00:00,0,74,346,Victim of Your Life,2,Single Tracks,2008-11-26 01:49:33,2,62,Portland OR,320000,80,Rock,Marching as Technitions
+172,0,2008-11-26 01:51:54,2009-01-06 00:00:00,0,75,90,Heir to the Power Bear Fortune,1,Single Tracks,2008-11-26 01:49:33,2,62,Portland OR,192000,206,Rock,I Can't Stand You Up-right
+173,0,2008-11-26 01:51:48,2008-06-23 00:00:00,0,72,716,Boss of Goth,4,Single Tracks,2008-11-26 01:49:33,2,62,Portland OR,192000,218,Rock,Save Life's Golden Receipt In Case Refund Needed
+174,0,2008-11-26 01:51:48,2008-06-23 00:00:00,0,72,716,Boss of Goth,4,Single Tracks,2008-11-26 01:49:33,2,62,Portland OR,192000,199,Rock,Senator's Stance
+175,0,2008-11-26 01:51:50,2007-01-01 00:00:00,0,73,193,Nightmarcher,2,Single Tracks,2008-11-26 01:49:33,2,62,Portland OR,192000,111,Rock,Snapped Today
+176,0,2008-11-26 01:51:52,2009-01-06 00:00:00,0,74,346,Victim of Your Life,2,Single Tracks,2008-11-26 01:49:33,2,62,Portland OR,320000,160,Rock,Step Up to Legends
+177,0,2008-11-26 01:51:48,2008-06-23 00:00:00,0,72,716,Boss of Goth,4,Single Tracks,2008-11-26 01:49:33,2,62,Portland OR,192000,129,Rock,Petty Hate Machine
+178,0,2008-11-26 01:52:07,2009-01-06 00:00:00,0,76,149,"Tarantula Downpour 7""",1,Single Tracks,2008-11-26 01:49:33,2,62,Portland OR,192000,259,Rock,Lend Me a Blanket
+179,0,2008-11-26 01:52:09,2009-01-06 00:00:00,0,77,226,Dracula Safari,1,Single Tracks,2008-11-26 01:49:33,2,62,Portland OR,320000,90,Rock,Ready to Die
+181,0,2008-11-26 01:52:15,2007-04-13 00:00:00,0,79,1339,Scared Famous,1,Album,2008-11-26 01:49:59,76,64,,256000,171,Rock,Gopacapulco
+182,0,2008-11-26 01:52:18,2005-04-26 00:00:00,0,80,5289,Worn Copy,1,Album,2008-11-26 01:49:59,76,64,,256000,228,Rock,Jules Lost His Jewels
+183,0,2008-11-26 01:52:21,2004-10-12 00:00:00,1,81,869,The Doldrums,1,Album,2008-11-26 01:49:59,76,64,,256000,260,Rock,For Kate I Wait
+184,2,2008-11-26 01:52:24,2009-01-06 00:00:00,2,82,831,House Arrest,1,Album,2008-11-26 01:49:59,76,64,,256000,254,Rock,Helen
+185,0,2008-11-26 01:52:28,2004-01-20 00:00:00,2,83,1042,Homemade Hits Vol. 1,1,Album,2008-11-26 01:49:59,76,64,,256000,143,,Want Me
+188,0,2008-11-26 01:52:31,2009-01-07 00:00:00,0,84,12333,Blue Piano,15,Album,2008-11-26 02:08:52,7,127,New York NY,256000,44,Folk,Piano 1
+189,0,2008-11-26 01:52:33,2009-01-07 00:00:00,0,85,894,What I Know,10,Album,2008-11-26 02:08:52,7,127,New York NY,256000,283,Folk,The Thought Of It
+190,0,2008-11-26 01:52:31,2009-01-07 00:00:00,0,84,12333,Blue Piano,15,Album,2008-11-26 02:08:52,7,127,New York NY,256000,249,Folk,Castle Of Stars
+191,0,2008-11-26 01:52:33,2009-01-07 00:00:00,0,85,894,What I Know,10,Album,2008-11-26 02:08:52,7,127,New York NY,256000,224,Folk,Song About Michael
+192,0,2008-11-26 01:52:33,2009-01-07 00:00:00,0,85,894,What I Know,10,Album,2008-11-26 02:08:52,7,127,New York NY,256000,40,Folk,Ed Talk WNYC
+193,0,2008-11-26 01:52:31,2009-01-07 00:00:00,0,84,12333,Blue Piano,15,Album,2008-11-26 02:08:52,7,127,New York NY,256000,254,Folk,Here With You
+194,0,2008-11-26 01:52:31,2009-01-07 00:00:00,0,84,12333,Blue Piano,15,Album,2008-11-26 02:08:52,7,127,New York NY,256000,192,Folk,All I want to Do
+195,0,2008-11-26 01:52:33,2009-01-07 00:00:00,0,85,894,What I Know,10,Album,2008-11-26 02:08:52,7,127,New York NY,256000,339,Folk,I Remember You
+196,0,2008-11-26 01:52:33,2009-01-07 00:00:00,0,85,894,What I Know,10,Album,2008-11-26 02:08:52,7,127,New York NY,256000,170,Folk,Bright Mr Brother
+197,0,2008-11-26 01:52:31,2009-01-07 00:00:00,0,84,12333,Blue Piano,15,Album,2008-11-26 02:08:52,7,127,New York NY,256000,68,Folk,Piano 2
+198,0,2008-11-26 01:52:31,2009-01-07 00:00:00,0,84,12333,Blue Piano,15,Album,2008-11-26 02:08:52,7,127,New York NY,256000,269,Folk,It Breaks My Heart
+199,0,2008-11-26 01:52:33,2009-01-07 00:00:00,0,85,894,What I Know,10,Album,2008-11-26 02:08:52,7,127,New York NY,256000,263,Folk,Rimbaud
+200,0,2008-11-26 01:52:31,2009-01-07 00:00:00,0,84,12333,Blue Piano,15,Album,2008-11-26 02:08:52,7,127,New York NY,256000,194,Folk,Baby Come Home
+201,0,2008-11-26 01:52:33,2009-01-07 00:00:00,0,85,894,What I Know,10,Album,2008-11-26 02:08:52,7,127,New York NY,256000,210,Folk,Big City
+202,0,2008-11-26 01:52:33,2009-01-07 00:00:00,0,85,894,What I Know,10,Album,2008-11-26 02:08:52,7,127,New York NY,256000,258,Folk,Palomino
+203,0,2008-11-26 01:52:31,2009-01-07 00:00:00,0,84,12333,Blue Piano,15,Album,2008-11-26 02:08:52,7,127,New York NY,256000,195,Folk,Song For R
+204,0,2008-11-26 01:52:31,2009-01-07 00:00:00,0,84,12333,Blue Piano,15,Album,2008-11-26 02:08:52,7,127,New York NY,256000,324,Folk,My Dream
+205,0,2008-11-26 01:52:33,2009-01-07 00:00:00,0,85,894,What I Know,10,Album,2008-11-26 02:08:52,7,127,New York NY,256000,244,Folk,What Crow Saw
+206,0,2008-11-26 01:52:33,2009-01-07 00:00:00,0,85,894,What I Know,10,Album,2008-11-26 02:08:52,7,127,New York NY,256000,141,Folk,Bella Crane
+207,0,2008-11-26 01:52:31,2009-01-07 00:00:00,0,84,12333,Blue Piano,15,Album,2008-11-26 02:08:52,7,127,New York NY,256000,96,Folk,Piano 3
+208,0,2008-11-26 01:52:31,2009-01-07 00:00:00,0,84,12333,Blue Piano,15,Album,2008-11-26 02:08:52,7,127,New York NY,256000,273,Folk,Safe Harbor
+209,0,2008-11-26 01:52:31,2009-01-07 00:00:00,0,84,12333,Blue Piano,15,Album,2008-11-26 02:08:52,7,127,New York NY,256000,328,Folk,Safe Harbor
+210,0,2008-11-26 01:52:31,2009-01-07 00:00:00,0,84,12333,Blue Piano,15,Album,2008-11-26 02:08:52,7,127,New York NY,256000,184,Folk,In the French Court
+211,0,2008-11-26 01:52:31,2009-01-07 00:00:00,0,84,12333,Blue Piano,15,Album,2008-11-26 02:08:52,7,127,New York NY,256000,247,Folk,In America
+212,0,2008-11-26 01:52:31,2009-01-07 00:00:00,0,84,12333,Blue Piano,15,Album,2008-11-26 02:08:52,7,127,New York NY,256000,230,Folk,When I Arive
+213,0,2008-11-26 01:53:47,2007-07-05 00:00:00,1,86,1148,Au,1,Single Tracks,2008-11-26 01:51:30,11,66,Portland OR,256000,247,Pop,Boute
+226,0,2008-11-26 01:54:25,2006-01-01 00:00:00,0,88,2677,Bad News Bats,0,Album,2008-11-26 01:52:07,0,68,Philadelphia PA,197144,231,Rock,W.T.M.
+228,0,2008-11-26 01:54:25,2006-01-01 00:00:00,0,88,2677,Bad News Bats,0,Album,2008-11-26 01:52:07,0,68,Philadelphia PA,190365,218,Rock,Don't Run With Pizzas
+236,0,2008-11-26 01:54:55,,0,93,7702,Bersa Discos #8,1,Single Tracks,2008-11-26 01:52:38,5,73,Oakland CA,320000,309,,Push Am (Left Right)
+237,0,2008-11-26 01:55:00,2003-01-11 00:00:00,3,94,2544,6,2,Album,2008-11-26 01:52:43,14,74,Providence RI,256000,450,Jazz,Garbage and (Garbage and Fire)
+238,0,2008-11-26 01:55:00,2003-01-11 00:00:00,3,94,2544,6,2,Album,2008-11-26 01:52:43,14,74,Providence RI,256000,821,Jazz,France Attacks
+246,0,2008-11-26 01:55:43,2008-01-01 00:00:00,1,99,3116,Open Relationship,3,Album,2008-11-26 01:53:25,27,80,,256000,162,,Referents
+247,0,2008-11-26 01:55:44,2009-01-09 00:00:00,0,100,5613,On Opaque Things,4,Album,2008-11-26 01:53:25,27,80,,256000,146,Rock,A New Map for Kissing
+248,0,2008-11-26 01:55:47,2007-01-01 00:00:00,0,101,2180,Wooden Lake Sexual Diner,3,Album,2008-11-26 01:53:25,27,80,,256000,169,,Ghosts
+249,0,2008-11-26 01:55:44,2009-01-09 00:00:00,0,100,5613,On Opaque Things,4,Album,2008-11-26 01:53:25,27,80,,256000,125,Rock,The Indefinite Time Yet to Come
+250,0,2008-11-26 01:55:47,2007-01-01 00:00:00,0,101,2180,Wooden Lake Sexual Diner,3,Album,2008-11-26 01:53:25,27,80,,256000,214,,Smoovebiz
+251,0,2008-11-26 01:55:47,2007-01-01 00:00:00,0,101,2180,Wooden Lake Sexual Diner,3,Album,2008-11-26 01:53:25,27,80,,256000,114,,Nobody Loves Me
+252,0,2008-11-26 01:55:44,2009-01-09 00:00:00,0,100,5613,On Opaque Things,4,Album,2008-11-26 01:53:25,27,80,,256000,173,Rock,It's Becoming a Stranger
+253,0,2008-11-26 01:55:43,2008-01-01 00:00:00,1,99,3116,Open Relationship,3,Album,2008-11-26 01:53:25,27,80,,256000,148,,New Life
+254,0,2008-11-26 01:55:43,2008-01-01 00:00:00,1,99,3116,Open Relationship,3,Album,2008-11-26 01:53:25,27,80,,256000,171,,Masters Of Enjoyment
+255,0,2008-11-26 01:55:44,2009-01-09 00:00:00,0,100,5613,On Opaque Things,4,Album,2008-11-26 01:53:25,27,80,,256000,182,Rock,We Want to be Old
+256,0,2008-11-26 01:56:04,2009-01-08 00:00:00,1,102,4418,Black Elk,3,Single Tracks,2008-11-26 01:53:46,3,81,Portland OR,256000,202,Rock,Toggle
+257,0,2008-11-26 01:56:04,2009-01-08 00:00:00,1,102,4418,Black Elk,3,Single Tracks,2008-11-26 01:53:46,3,81,Portland OR,320000,146,Rock,My Lil'
+258,0,2008-11-26 01:56:04,2009-01-08 00:00:00,1,102,4418,Black Elk,3,Single Tracks,2008-11-26 01:53:46,3,81,Portland OR,320000,384,Rock,Eyebone
+273,0,2008-11-26 01:56:31,2005-01-01 00:00:00,1,106,767,I,0,Album,2008-11-26 01:54:10,35,83,Providence RI,128000,111,Experimental,Dildoughnuts
+274,1,2008-11-26 01:56:33,2008-03-01 00:00:00,1,107,2972,4: All Aboard the Magic Pus,0,Album,2008-11-26 01:54:10,35,83,Providence RI,256000,192,Experimental,Land of the Lost
+275,0,2008-11-26 01:56:30,2006-06-01 00:00:00,1,105,801,III: Metamorpus,0,Album,2008-11-26 01:54:10,35,83,Providence RI,128000,167,Experimental,Swampus
+276,1,2008-11-26 01:56:29,2006-01-01 00:00:00,1,104,421,II,0,Album,2008-11-26 01:54:10,35,83,Providence RI,128000,186,Experimental,The Devilhellipers
+277,0,2008-11-26 01:56:30,2006-06-01 00:00:00,1,105,801,III: Metamorpus,0,Album,2008-11-26 01:54:10,35,83,Providence RI,128000,282,Experimental,Kind Companion
+281,1,2008-11-26 01:56:33,2008-03-01 00:00:00,1,107,2972,4: All Aboard the Magic Pus,0,Album,2008-11-26 01:54:10,35,83,Providence RI,256000,346,Experimental,Juggernaut
+282,1,2008-11-26 01:56:29,2006-01-01 00:00:00,1,104,421,II,0,Album,2008-11-26 01:54:10,35,83,Providence RI,128000,323,Experimental,New Atlantis A
+284,0,2008-11-26 01:56:31,2005-01-01 00:00:00,1,106,767,I,0,Album,2008-11-26 01:54:10,35,83,Providence RI,128000,141,Experimental,Translucent Human
+285,0,2008-11-26 01:56:30,2006-06-01 00:00:00,1,105,801,III: Metamorpus,0,Album,2008-11-26 01:54:10,35,83,Providence RI,128000,234,Experimental,Earth aint Enuff
+293,0,2008-11-26 01:56:31,2005-01-01 00:00:00,1,106,767,I,0,Album,2008-11-26 01:54:10,35,83,Providence RI,128000,311,Experimental,Berserk is the Best
+294,1,2008-11-26 01:56:29,2006-01-01 00:00:00,1,104,421,II,0,Album,2008-11-26 01:54:10,35,83,Providence RI,128000,218,Experimental,Magic Bullet
+297,1,2008-11-26 01:56:33,2008-03-01 00:00:00,1,107,2972,4: All Aboard the Magic Pus,0,Album,2008-11-26 01:54:10,35,83,Providence RI,256000,373,Experimental,Body on the Tide
+300,0,2008-11-26 01:56:31,2005-01-01 00:00:00,1,106,767,I,0,Album,2008-11-26 01:54:10,35,83,Providence RI,128000,192,Experimental,The Foot Is Stronger Than The Arm
+303,0,2008-11-26 01:57:43,2007-09-01 00:00:00,1,108,2060,Green Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,136,Rock,Splish spladdy
+304,0,2008-11-26 01:57:45,1982-04-06 00:00:00,1,109,3439,Stripey Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,191,Rock,Woo You
+305,4,2008-11-26 01:57:48,1981-01-01 00:00:00,1,110,4250,Gold Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,159,Rock,Disney on Ice
+306,0,2008-11-26 01:57:43,2007-09-01 00:00:00,1,108,2060,Green Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,129,Rock,The Prime Four
+307,0,2008-11-26 01:57:43,2007-09-01 00:00:00,1,108,2060,Green Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,205,Rock,Out on the farm
+308,0,2008-11-26 01:57:45,1982-04-06 00:00:00,1,109,3439,Stripey Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,186,Rock,The Hotel
+309,0,2008-11-26 01:57:43,2007-09-01 00:00:00,1,108,2060,Green Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,229,Rock,Where are all the people
+310,4,2008-11-26 01:57:48,1981-01-01 00:00:00,1,110,4250,Gold Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,146,Rock,Going Down to Soho
+311,0,2008-11-26 01:57:45,1982-04-06 00:00:00,1,109,3439,Stripey Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,205,Rock,Tropical Holiday Time
+312,0,2008-11-26 01:57:43,2007-09-01 00:00:00,1,108,2060,Green Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,199,Rock,Tropical Sheep
+313,0,2008-11-26 01:57:45,1982-04-06 00:00:00,1,109,3439,Stripey Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,142,Rock,Think Things Of You
+314,0,2008-11-26 01:57:43,2007-09-01 00:00:00,1,108,2060,Green Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,166,Rock,Daisey Chains
+315,4,2008-11-26 01:57:48,1981-01-01 00:00:00,1,110,4250,Gold Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,280,Rock,Interference
+316,4,2008-11-26 01:57:48,1981-01-01 00:00:00,1,110,4250,Gold Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,87,Rock,Itching in my pants
+317,0,2008-11-26 01:57:45,1982-04-06 00:00:00,1,109,3439,Stripey Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,198,Rock,Very Nice
+318,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,41,Rock,1-2-3-4
+319,0,2008-11-26 01:57:43,2007-09-01 00:00:00,1,108,2060,Green Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,156,Rock,Complete Shakespeare
+320,4,2008-11-26 01:57:48,1981-01-01 00:00:00,1,110,4250,Gold Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,316,Rock,The Natives are Restless
+321,0,2008-11-26 01:57:45,1982-04-06 00:00:00,1,109,3439,Stripey Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,273,Rock,Heart Attack
+322,0,2008-11-26 01:57:43,2007-09-01 00:00:00,1,108,2060,Green Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,110,Rock,Shopping Bag
+323,0,2008-11-26 01:57:43,2007-09-01 00:00:00,1,108,2060,Green Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,237,Rock,Crocodile Song
+324,0,2008-11-26 01:57:45,1982-04-06 00:00:00,1,109,3439,Stripey Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,120,Rock,I just don't know
+325,4,2008-11-26 01:57:48,1981-01-01 00:00:00,1,110,4250,Gold Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,199,Rock,Liquidizing Chickens
+326,0,2008-11-26 01:57:45,1982-04-06 00:00:00,1,109,3439,Stripey Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,105,Rock,Burn
+327,0,2008-11-26 01:57:45,1982-04-06 00:00:00,1,109,3439,Stripey Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,259,Rock,Hands Beckoning
+328,0,2008-11-26 01:57:45,1982-04-06 00:00:00,1,109,3439,Stripey Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,236,Rock,Central Park
+330,0,2008-11-26 01:57:43,2007-09-01 00:00:00,1,108,2060,Green Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,270,Rock,White Man
+331,0,2008-11-26 01:57:43,2007-09-01 00:00:00,1,108,2060,Green Collection,0,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,214,Rock,Weatherman
+332,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,174,Rock,39th floor Club
+333,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,96,Rock,Blah intro
+334,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,275,Rock,Blahpunk
+335,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,188,Rock,Bored
+336,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,204,Rock,Breeder
+337,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,271,Rock,Brian's Garage
+338,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,88,Rock,Cabages in the sunset
+339,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,110,Rock,Chimpanzees disease
+340,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,142,Rock,Circles in London
+341,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,84,Rock,Count Dracula's castle
+342,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,55,Rock,Crash
+343,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,66,Rock,Cybernetics
+344,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,115,Rock,Denver
+345,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,202,Rock,Ding dang (skat)
+346,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,158,Rock,Disco Ghoul
+347,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,150,Rock,Down in the pits again
+348,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,165,Rock,Excretia
+349,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,74,Rock,Garden of Eden
+350,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,101,Rock,Gotta Go
+351,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,249,Rock,Hippopotamus
+352,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,165,Rock,In Arabia
+353,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,149,Rock,In my Grandfather's Clock
+354,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,60,Rock,Julie Andrews
+355,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,144,Rock,Just you wait and see
+356,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,225,Rock,Little White Boxes
+357,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,139,Rock,Mr Mystery
+358,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,121,Rock,My House
+359,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,178,Rock,My Room
+360,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,126,Rock,Radio Jazz with Mr Rhodes
+361,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,218,Rock,Red coated young girlfriend
+362,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,122,Rock,Starsigns
+363,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,165,Rock,Sugar Bowl
+364,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,152,Rock,Sunspot activity
+365,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,104,Rock,The Sound of Music
+366,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,144,Rock,The Swamp
+367,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,110,Rock,There goes my greenhouse
+368,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,280,Rock,Vampires
+369,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,185,Rock,Whistle while you work
+370,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,213,Rock,Why didn't Nero?
+371,0,2008-11-26 01:58:50,2009-01-01 00:00:00,1,112,11086,30th Anniversary Blah Blah Blah,21,Album,2008-11-26 01:55:23,20,84,Colchester UK,256000,251,Rock,vermalderhide
+384,0,2008-11-26 02:00:54,2005-01-01 00:00:00,3,116,1763,Summer Set,0,Album,2008-11-26 01:58:29,11,86,,256000,249,Electronic,Baja Jones
+385,0,2008-11-26 02:00:54,2005-01-01 00:00:00,3,116,1763,Summer Set,0,Album,2008-11-26 01:58:29,11,86,,256000,261,Electronic,Lucky 45
+386,0,2008-11-26 02:00:54,2005-01-01 00:00:00,3,116,1763,Summer Set,0,Album,2008-11-26 01:58:29,11,86,,256000,357,Electronic,Clapartroach
+387,0,2008-11-26 02:00:54,2005-01-01 00:00:00,3,116,1763,Summer Set,0,Album,2008-11-26 01:58:29,11,86,,256000,326,Electronic,I wish I wish
+393,0,2008-11-26 02:01:25,2009-01-07 00:00:00,0,119,942,Boogie Witch,3,Live Performance,2008-11-26 01:59:06,0,89,Philadelphia PA,256000,810,Rock,Untitled Boogie (edit) Transfiguration Boogie Boogie Hole
+394,0,2008-11-26 02:01:25,2009-01-07 00:00:00,0,119,942,Boogie Witch,3,Live Performance,2008-11-26 01:59:06,0,89,Philadelphia PA,256000,243,Rock,Boogie Hole
+395,0,2008-11-26 02:01:25,2009-01-07 00:00:00,0,119,942,Boogie Witch,3,Live Performance,2008-11-26 01:59:06,0,89,Philadelphia PA,256000,380,Rock,Transfiguration Boogie
+396,0,2009-01-07 11:04:01,2007-01-01 00:00:00,1,1697,1931,On the Back of a Dying Beast: Volume 1,7,Live Performance,2008-11-26 01:59:22,8,90,San Francisco CA,256000,1137,Electronic,Juggernaut Soliloquy
+397,0,2009-01-07 11:04:01,2007-01-01 00:00:00,1,1697,1931,On the Back of a Dying Beast: Volume 1,7,Live Performance,2008-11-26 01:59:22,8,90,San Francisco CA,256000,240,Electronic,The Tides Of Land
+398,0,2008-11-26 02:01:54,2005-07-05 00:00:00,0,122,6068,Root,9,Album,2008-11-26 01:59:22,8,90,San Francisco CA,256000,344,Electronic,Borful Tang Loves Nomeansno
+399,0,2008-11-26 02:01:54,2005-07-05 00:00:00,0,122,6068,Root,9,Album,2008-11-26 01:59:22,8,90,San Francisco CA,256000,388,Electronic,ELI
+400,0,2009-01-07 11:04:01,2007-01-01 00:00:00,1,1697,1931,On the Back of a Dying Beast: Volume 1,7,Live Performance,2008-11-26 01:59:22,8,90,San Francisco CA,256000,395,Electronic,Electronic Interlude VI
+401,0,2009-01-07 11:04:01,2007-01-01 00:00:00,1,1697,1931,On the Back of a Dying Beast: Volume 1,7,Live Performance,2008-11-26 01:59:22,8,90,San Francisco CA,256000,1076,Electronic,Modesto
+402,0,2009-01-07 11:04:01,2007-01-01 00:00:00,1,1697,1931,On the Back of a Dying Beast: Volume 1,7,Live Performance,2008-11-26 01:59:22,8,90,San Francisco CA,256000,541,Electronic,Oh Kap Soon
+403,0,2008-11-26 02:02:22,2006-01-01 00:00:00,0,123,808,split with Sunshine Militant Children's Hour,2,Album,2008-11-26 01:59:22,8,90,San Francisco CA,256000,198,Electronic,Roach
+404,0,2009-01-07 11:04:01,2007-01-01 00:00:00,1,1697,1931,On the Back of a Dying Beast: Volume 1,7,Live Performance,2008-11-26 01:59:22,8,90,San Francisco CA,256000,704,Electronic,Wonder Inn
+405,0,2008-11-26 02:01:54,2005-07-05 00:00:00,0,122,6068,Root,9,Album,2008-11-26 01:59:22,8,90,San Francisco CA,256000,439,Electronic,Majestic Shuffle
+406,0,2009-01-07 11:04:01,2007-01-01 00:00:00,1,1697,1931,On the Back of a Dying Beast: Volume 1,7,Live Performance,2008-11-26 01:59:22,8,90,San Francisco CA,256000,756,Electronic,ELI
+407,0,2008-11-26 02:01:54,2005-07-05 00:00:00,0,122,6068,Root,9,Album,2008-11-26 01:59:22,8,90,San Francisco CA,256000,354,Electronic,Soundclash At Wonder Inn (ft. Qulfus)
+408,0,2008-11-26 02:02:22,2006-01-01 00:00:00,0,123,808,split with Sunshine Militant Children's Hour,2,Album,2008-11-26 01:59:22,8,90,San Francisco CA,256000,247,Electronic,The Tides Of Land
+410,0,2008-11-26 02:01:54,2005-07-05 00:00:00,0,122,6068,Root,9,Album,2008-11-26 01:59:22,8,90,San Francisco CA,256000,379,Electronic,Lost on the Eastern Side of the Island
+411,0,2008-11-26 02:01:54,2005-07-05 00:00:00,0,122,6068,Root,9,Album,2008-11-26 01:59:22,8,90,San Francisco CA,256000,146,Electronic,Orp
+412,0,2008-11-26 02:01:54,2005-07-05 00:00:00,0,122,6068,Root,9,Album,2008-11-26 01:59:22,8,90,San Francisco CA,256000,253,Electronic,John And Mary - The Meeting
+414,0,2008-11-26 02:01:54,2005-07-05 00:00:00,0,122,6068,Root,9,Album,2008-11-26 01:59:22,8,90,San Francisco CA,256000,230,Electronic,John And Mary - The Restaurant
+416,0,2008-11-26 02:01:54,2005-07-05 00:00:00,0,122,6068,Root,9,Album,2008-11-26 01:59:22,8,90,San Francisco CA,256000,745,Electronic,Smyrna Snow Walk
+417,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,280,Experimental,Eula
+418,0,2008-11-26 02:03:22,2009-01-08 00:00:00,2,125,12580,Original Soundtrack: Work for 20 DVD Players,5,Live Performance,2008-11-26 02:00:58,14,91,,256000,486,,Track1
+419,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,191,Experimental,The Franklin Mint Job
+420,0,2008-11-26 02:03:22,2009-01-08 00:00:00,2,125,12580,Original Soundtrack: Work for 20 DVD Players,5,Live Performance,2008-11-26 02:00:58,14,91,,256000,901,,Track2
+421,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,116,Experimental,Il bouno il bruto il skronko
+422,0,2008-11-26 02:03:22,2009-01-08 00:00:00,2,125,12580,Original Soundtrack: Work for 20 DVD Players,5,Live Performance,2008-11-26 02:00:58,14,91,,256000,1459,,Track3
+423,0,2008-11-26 02:03:22,2009-01-08 00:00:00,2,125,12580,Original Soundtrack: Work for 20 DVD Players,5,Live Performance,2008-11-26 02:00:58,14,91,,256000,374,,Track4
+424,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,76,Experimental,The Ambient Honky
+425,0,2008-11-26 02:03:22,2009-01-08 00:00:00,2,125,12580,Original Soundtrack: Work for 20 DVD Players,5,Live Performance,2008-11-26 02:00:58,14,91,,256000,384,Experimental,Track5
+426,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,114,Experimental,An Audio Walk Through Greater Newcastle
+427,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,83,Experimental,1913
+428,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,122,Experimental,1933
+429,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,136,Experimental,1963/2005
+430,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,82,Experimental,1966
+431,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,64,Experimental,1977
+432,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,80,Experimental,1984
+433,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,123,Experimental,1987
+434,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,78,Experimental,1988
+435,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,177,Experimental,1989
+436,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,734,Experimental,voice over
+437,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,117,Experimental,Yesterduh (Joe Meek)
+438,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,352,Experimental,Minima Medley
+439,0,2008-11-26 02:03:18,2009-01-08 00:00:00,1,124,5331,The Definitive Host,18,Album,2008-11-26 02:00:58,14,91,,256000,256,Experimental,All you get from love is 22 Love Songs
+440,1,2008-11-26 02:04:38,2007-06-01 00:00:00,0,126,4646,Over In A Big Way,13,Album,2008-11-26 02:02:17,9,92,Providence RI,256000,15,,The Beats
+441,1,2008-11-26 02:04:38,2007-06-01 00:00:00,0,126,4646,Over In A Big Way,13,Album,2008-11-26 02:02:17,9,92,Providence RI,256000,227,,Veruca Assault
+442,1,2008-11-26 02:04:38,2007-06-01 00:00:00,0,126,4646,Over In A Big Way,13,Album,2008-11-26 02:02:17,9,92,Providence RI,256000,255,,ID4 Congress
+443,1,2008-11-26 02:04:38,2007-06-01 00:00:00,0,126,4646,Over In A Big Way,13,Album,2008-11-26 02:02:17,9,92,Providence RI,256000,312,,Bastard Boise
+444,1,2008-11-26 02:04:38,2007-06-01 00:00:00,0,126,4646,Over In A Big Way,13,Album,2008-11-26 02:02:17,9,92,Providence RI,256000,32,,Jean-Michel
+445,1,2008-11-26 02:04:38,2007-06-01 00:00:00,0,126,4646,Over In A Big Way,13,Album,2008-11-26 02:02:17,9,92,Providence RI,256000,551,,Lyftoff
+446,1,2008-11-26 02:04:38,2007-06-01 00:00:00,0,126,4646,Over In A Big Way,13,Album,2008-11-26 02:02:17,9,92,Providence RI,256000,87,,Media Library
+447,1,2008-11-26 02:04:38,2007-06-01 00:00:00,0,126,4646,Over In A Big Way,13,Album,2008-11-26 02:02:17,9,92,Providence RI,256000,104,,Back/Forth
+448,1,2008-11-26 02:04:38,2007-06-01 00:00:00,0,126,4646,Over In A Big Way,13,Album,2008-11-26 02:02:17,9,92,Providence RI,256000,266,,Registered Sax Offender II
+449,1,2008-11-26 02:04:38,2007-06-01 00:00:00,0,126,4646,Over In A Big Way,13,Album,2008-11-26 02:02:17,9,92,Providence RI,256000,18,,Burlington Goat Factory
+450,1,2008-11-26 02:04:38,2007-06-01 00:00:00,0,126,4646,Over In A Big Way,13,Album,2008-11-26 02:02:17,9,92,Providence RI,256000,220,,Excuses
+451,1,2008-11-26 02:04:38,2007-06-01 00:00:00,0,126,4646,Over In A Big Way,13,Album,2008-11-26 02:02:17,9,92,Providence RI,256000,283,,Killer Murderer
+452,1,2008-11-26 02:04:38,2007-06-01 00:00:00,0,126,4646,Over In A Big Way,13,Album,2008-11-26 02:02:17,9,92,Providence RI,256000,42,,Casualist Conformativity
+458,0,2008-11-26 02:05:23,2009-01-07 00:00:00,1,129,1233,Hunt Like Devil EP,1,Album,2008-11-26 02:03:03,40,95,Chicago IL,256000,223,Rock,Hunt Like Devil 4
+459,1,2008-11-26 02:05:26,2009-01-07 00:00:00,1,130,7652,Butthash,1,Album,2008-11-26 02:03:03,40,95,Chicago IL,128000,301,Rock,Machines and Muscles
+461,0,2008-11-26 02:05:36,,5,132,22483,blissblood.com,5,Single Tracks,2008-11-26 02:03:15,16,97,,160000,328,,Bessemer
+462,0,2008-11-26 02:05:36,,5,132,22483,blissblood.com,5,Single Tracks,2008-11-26 02:03:15,16,97,,160000,323,,Has Been Blues
+463,0,2008-11-26 02:05:36,,5,132,22483,blissblood.com,5,Single Tracks,2008-11-26 02:03:15,16,97,,160000,224,,I'll Be Blue
+464,0,2008-11-26 02:05:36,,5,132,22483,blissblood.com,5,Single Tracks,2008-11-26 02:03:15,16,97,,160000,397,,The Way I Feel Today
+465,0,2008-11-26 02:05:36,,5,132,22483,blissblood.com,5,Single Tracks,2008-11-26 02:03:15,16,97,,160000,221,,Thinking Of You
+466,0,2008-11-26 02:05:49,2009-01-07 00:00:00,0,133,2680,Lingua Ignota,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,281,Rock,Asterism
+467,0,2008-11-26 02:05:58,2009-01-07 00:00:00,0,134,907,Birdlike Movements,9,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,157,Rock,Let's Climb a Mossy Hill
+468,0,2008-11-26 02:05:59,2002-01-01 00:00:00,0,135,1775,Vast and Sad,7,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,296,Rock,Vast and Sad (KPSU)
+469,0,2008-11-26 02:06:03,2009-01-07 00:00:00,0,136,349,Kohoutek,12,Album,2008-11-26 02:03:27,4,98,Portland OR,128000,221,Rock,Waverly
+470,0,2008-11-26 02:05:58,2009-01-07 00:00:00,0,134,907,Birdlike Movements,9,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,172,Rock,Cloud Light
+471,0,2008-11-26 02:05:49,2009-01-07 00:00:00,0,133,2680,Lingua Ignota,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,199,Rock,Ephrata Cloister
+472,0,2008-11-26 02:06:07,,0,137,191,Spirit Duplicator,8,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,67,Rock,Spirit Duplicator
+473,0,2008-11-26 02:06:03,2009-01-07 00:00:00,0,136,349,Kohoutek,12,Album,2008-11-26 02:03:27,4,98,Portland OR,128000,176,Rock,Victoria 1
+474,0,2008-11-26 02:05:59,2002-01-01 00:00:00,0,135,1775,Vast and Sad,7,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,187,Rock,Your Leather Jacket (Kelly Haus)
+475,0,2008-11-26 02:05:49,2009-01-07 00:00:00,0,133,2680,Lingua Ignota,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,128,Rock,Buddy Alan In Reno
+476,0,2008-11-26 02:06:07,,0,137,191,Spirit Duplicator,8,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,231,Rock,Leftward Glance
+477,0,2008-11-26 02:05:59,2002-01-01 00:00:00,0,135,1775,Vast and Sad,7,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,177,Rock,Let's Climb a Mossy Hill (Kelly Haus)
+478,0,2008-11-26 02:05:58,2009-01-07 00:00:00,0,134,907,Birdlike Movements,9,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,104,Rock,Recessional
+479,0,2008-11-26 02:06:03,2009-01-07 00:00:00,0,136,349,Kohoutek,12,Album,2008-11-26 02:03:27,4,98,Portland OR,128000,261,Rock,White Shoulders
+480,0,2008-11-26 02:05:59,2002-01-01 00:00:00,0,135,1775,Vast and Sad,7,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,58,Rock,Appear to Be (Kelly Haus)
+481,0,2008-11-26 02:06:03,2009-01-07 00:00:00,0,136,349,Kohoutek,12,Album,2008-11-26 02:03:27,4,98,Portland OR,128000,126,Rock,Council Bluffs
+482,0,2008-11-26 02:06:07,,0,137,191,Spirit Duplicator,8,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,119,Rock,Hall Blvd.
+483,0,2008-11-26 02:05:58,2009-01-07 00:00:00,0,134,907,Birdlike Movements,9,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,115,Rock,Magnolias Milan
+484,0,2008-11-26 02:05:49,2009-01-07 00:00:00,0,133,2680,Lingua Ignota,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,138,Rock,One Rose Among Many
+485,0,2008-11-26 02:05:59,2002-01-01 00:00:00,0,135,1775,Vast and Sad,7,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,213,Rock,Asterism (Kelly Haus)
+486,0,2008-11-26 02:06:03,2009-01-07 00:00:00,0,136,349,Kohoutek,12,Album,2008-11-26 02:03:27,4,98,Portland OR,128000,170,Rock,Avoid
+487,0,2008-11-26 02:05:49,2009-01-07 00:00:00,0,133,2680,Lingua Ignota,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,118,Rock,For Christie 7/4
+489,0,2008-11-26 02:06:07,,0,137,191,Spirit Duplicator,8,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,110,Rock,Nevertheless
+490,0,2008-11-26 02:05:58,2009-01-07 00:00:00,0,134,907,Birdlike Movements,9,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,210,Rock,Vast and Sad
+491,0,2008-11-26 02:06:03,2009-01-07 00:00:00,0,136,349,Kohoutek,12,Album,2008-11-26 02:03:27,4,98,Portland OR,128000,349,Rock,For To Pour
+492,0,2008-11-26 02:05:58,2009-01-07 00:00:00,0,134,907,Birdlike Movements,9,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,161,Rock,I Can't Hear the Birds Sing
+493,0,2008-11-26 02:05:49,2009-01-07 00:00:00,0,133,2680,Lingua Ignota,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,243,Rock,In the Sky
+495,0,2008-11-26 02:05:59,2002-01-01 00:00:00,0,135,1775,Vast and Sad,7,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,899,Rock,"Waterfall (Emerald City Coffee, Seattle)"
+496,0,2008-11-26 02:06:07,,0,137,191,Spirit Duplicator,8,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,173,Rock,Winged Ear
+497,0,2008-11-26 02:06:03,2009-01-07 00:00:00,0,136,349,Kohoutek,12,Album,2008-11-26 02:03:27,4,98,Portland OR,128000,59,Rock,Appear To Be
+498,0,2008-11-26 02:05:58,2009-01-07 00:00:00,0,134,907,Birdlike Movements,9,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,75,Rock,Birdlike Movements
+500,0,2008-11-26 02:06:07,,0,137,191,Spirit Duplicator,8,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,127,Rock,Longview WA
+501,0,2008-11-26 02:05:49,2009-01-07 00:00:00,0,133,2680,Lingua Ignota,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,326,Rock,Utmost House
+502,0,2008-11-26 02:05:59,2002-01-01 00:00:00,0,135,1775,Vast and Sad,7,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,780,Rock,"Vast and Sad (Showoff Gallery, Bellingham)"
+503,0,2008-11-26 02:06:07,,0,137,191,Spirit Duplicator,8,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,296,Rock,Carted Off
+504,0,2008-11-26 02:06:03,2009-01-07 00:00:00,0,136,349,Kohoutek,12,Album,2008-11-26 02:03:27,4,98,Portland OR,128000,242,Rock,Cry
+506,0,2008-11-26 02:05:49,2009-01-07 00:00:00,0,133,2680,Lingua Ignota,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,220,Rock,Moths!!!
+507,0,2008-11-26 02:05:58,2009-01-07 00:00:00,0,134,907,Birdlike Movements,9,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,201,Rock,Toasty Birds
+508,0,2008-11-26 02:06:03,2009-01-07 00:00:00,0,136,349,Kohoutek,12,Album,2008-11-26 02:03:27,4,98,Portland OR,128000,235,Rock,5 In 1
+509,0,2008-11-26 02:05:58,2009-01-07 00:00:00,0,134,907,Birdlike Movements,9,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,154,Rock,A Wren's Heart
+510,0,2008-11-26 02:06:07,,0,137,191,Spirit Duplicator,8,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,240,Rock,Sac City
+511,0,2008-11-26 02:05:49,2009-01-07 00:00:00,0,133,2680,Lingua Ignota,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,158,Rock,Sharper &amp Clearer
+512,0,2008-11-26 02:05:49,2009-01-07 00:00:00,0,133,2680,Lingua Ignota,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,87,Rock,""""""
+513,0,2008-11-26 02:06:03,2009-01-07 00:00:00,0,136,349,Kohoutek,12,Album,2008-11-26 02:03:27,4,98,Portland OR,128000,242,Rock,Victoria 2
+514,0,2008-11-26 02:06:03,2009-01-07 00:00:00,0,136,349,Kohoutek,12,Album,2008-11-26 02:03:27,4,98,Portland OR,128000,178,Rock,Four Doors
+515,0,2008-11-26 02:05:49,2009-01-07 00:00:00,0,133,2680,Lingua Ignota,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,146,Rock,Let's Climb a Mossy Hill
+516,0,2008-11-26 02:06:03,2009-01-07 00:00:00,0,136,349,Kohoutek,12,Album,2008-11-26 02:03:27,4,98,Portland OR,128000,465,Rock,Kohoutek
+517,0,2008-11-26 02:05:49,2009-01-07 00:00:00,0,133,2680,Lingua Ignota,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,301,Rock,Narcotic Effect On Bees
+520,0,2008-11-26 02:07:29,2009-01-08 00:00:00,0,140,1420,Sing Like Birds,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,181,Rock,Invisible Tape
+521,0,2008-11-26 02:07:29,2009-01-08 00:00:00,0,140,1420,Sing Like Birds,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,143,Rock,A River Frozen In Place
+522,0,2008-11-26 02:07:29,2009-01-08 00:00:00,0,140,1420,Sing Like Birds,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,127,Rock,End Over End
+523,0,2008-11-26 02:07:29,2009-01-08 00:00:00,0,140,1420,Sing Like Birds,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,149,Rock,Black Is the Color of My True Love's Mail
+524,0,2008-11-26 02:07:29,2009-01-08 00:00:00,0,140,1420,Sing Like Birds,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,137,Rock,I Didn't Think the Oracle Was Talking to Me
+525,0,2008-11-26 02:07:29,2009-01-08 00:00:00,0,140,1420,Sing Like Birds,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,195,Rock,I Have Not Spoken All Day
+526,0,2008-11-26 02:07:29,2009-01-08 00:00:00,0,140,1420,Sing Like Birds,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,189,Rock,Do Not Talk
+527,0,2008-11-26 02:07:29,2009-01-08 00:00:00,0,140,1420,Sing Like Birds,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,133,Rock,For Jake Erdmann Et Al.
+528,0,2008-11-26 02:07:29,2009-01-08 00:00:00,0,140,1420,Sing Like Birds,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,146,Rock,An Odd Number of Stairs
+529,0,2008-11-26 02:07:29,2009-01-08 00:00:00,0,140,1420,Sing Like Birds,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,99,Rock,For the Dishroom at Meridian Park Hospital
+530,0,2008-11-26 02:07:29,2009-01-08 00:00:00,0,140,1420,Sing Like Birds,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,169,Rock,White Satin Bed
+531,0,2008-11-26 02:07:29,2009-01-08 00:00:00,0,140,1420,Sing Like Birds,12,Album,2008-11-26 02:03:27,4,98,Portland OR,160000,211,Rock,Night Air Portland
+532,0,2008-11-26 02:07:45,2008-09-15 00:00:00,1,141,564,The Thrush,2,Album,2008-11-26 02:05:22,8,100,Chicago IL,256000,168,Electronic,Big League
+533,0,2008-11-26 02:07:45,2008-09-15 00:00:00,1,141,564,The Thrush,2,Album,2008-11-26 02:05:22,8,100,Chicago IL,256000,191,Electronic,Mango Tree
+534,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,80,Folk,I Can See You
+535,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,160,Folk,Angels Fear To Tread
+536,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,304,Folk,Riding On Your Fears
+537,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,406,Folk,I Don't Need Water Sprinklers In The Desert
+538,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,204,Folk,Your Magic Motion
+539,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,149,Folk,Whoever You Are
+540,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,309,Folk,The Black Pirate
+541,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,370,Folk,So We Go Again
+542,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,487,Folk,Self Is Eternal (What Our World Will Be)
+543,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,103,Folk,Sometimes It Works Just Right
+544,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,773,Folk,Sweet Words
+545,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,242,Folk,Interpretations
+546,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,319,Folk,If You Have No One
+547,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,248,Folk,I Keep On Wondering (Interrupted)
+548,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,235,Folk,1967- Mac Brother
+549,0,2008-11-26 02:07:50,2009-01-14 00:00:00,2,142,4681,One Mind,16,Album,2008-11-26 02:05:27,9,101,San Qunetin,128000,155,Folk,Venice CA
+550,0,2008-11-26 02:08:19,2009-01-08 00:00:00,0,143,2918,Unreleased,6,Album,2008-11-26 02:05:56,0,102,San Francisco CA,320000,272,Electronic,Cello Duet No. 1
+554,-1,,,-1,147,-1,Crikey,-1,,2008-11-26 01:42:52,10,4,Colchester England,256000,135,,Disturbed
+555,-1,,,-1,147,-1,Crikey,-1,,2008-11-26 01:42:52,10,4,Colchester England,256000,234,,Shaking
+556,-1,,,-1,147,-1,Crikey,-1,,2008-11-26 01:42:52,10,4,Colchester England,256000,228,,The Applemen
+557,-1,,,-1,147,-1,Crikey,-1,,2008-11-26 01:42:52,10,4,Colchester England,256000,178,,Waitin'
+558,-1,,,-1,147,-1,Crikey,-1,,2008-11-26 01:42:52,10,4,Colchester England,256000,342,,Emotion
+559,-1,,,-1,147,-1,Crikey,-1,,2008-11-26 01:42:52,10,4,Colchester England,256000,165,,Takeaway
+560,-1,,,-1,147,-1,Crikey,-1,,2008-11-26 01:42:52,10,4,Colchester England,256000,157,,Serious
+561,-1,,,-1,147,-1,Crikey,-1,,2008-11-26 01:42:52,10,4,Colchester England,256000,268,,Fairies
+562,0,2008-11-26 02:08:59,2007-01-01 00:00:00,0,148,1733,Cinwaves,11,Album,2008-11-26 02:06:36,0,105,Deerfield Beach FL,256000,69,Rock,Ex Lucky
+563,0,2008-11-26 02:08:59,2007-01-01 00:00:00,0,148,1733,Cinwaves,11,Album,2008-11-26 02:06:36,0,105,Deerfield Beach FL,256000,168,Rock,Dumb Me Down
+564,0,2008-11-26 02:08:59,2007-01-01 00:00:00,0,148,1733,Cinwaves,11,Album,2008-11-26 02:06:36,0,105,Deerfield Beach FL,256000,141,Rock,The Sugar Society
+565,0,2008-11-26 02:08:59,2007-01-01 00:00:00,0,148,1733,Cinwaves,11,Album,2008-11-26 02:06:36,0,105,Deerfield Beach FL,256000,154,Rock,Sophia
+566,0,2008-11-26 02:08:59,2007-01-01 00:00:00,0,148,1733,Cinwaves,11,Album,2008-11-26 02:06:36,0,105,Deerfield Beach FL,256000,182,Rock,Jasmine
+567,0,2008-11-26 02:08:59,2007-01-01 00:00:00,0,148,1733,Cinwaves,11,Album,2008-11-26 02:06:36,0,105,Deerfield Beach FL,256000,130,Rock,Liberty's Bell
+568,0,2008-11-26 02:08:59,2007-01-01 00:00:00,0,148,1733,Cinwaves,11,Album,2008-11-26 02:06:36,0,105,Deerfield Beach FL,256000,147,Rock,Disconnect
+569,0,2008-11-26 02:08:59,2007-01-01 00:00:00,0,148,1733,Cinwaves,11,Album,2008-11-26 02:06:36,0,105,Deerfield Beach FL,256000,149,Rock,Shadow Law
+570,0,2008-11-26 02:08:59,2007-01-01 00:00:00,0,148,1733,Cinwaves,11,Album,2008-11-26 02:06:36,0,105,Deerfield Beach FL,256000,141,Rock,Old Route 13
+571,0,2008-11-26 02:08:59,2007-01-01 00:00:00,0,148,1733,Cinwaves,11,Album,2008-11-26 02:06:36,0,105,Deerfield Beach FL,256000,79,Rock,Medicine Chant
+572,0,2008-11-26 02:08:59,2007-01-01 00:00:00,0,148,1733,Cinwaves,11,Album,2008-11-26 02:06:36,0,105,Deerfield Beach FL,256000,178,Rock,Awaken
+573,0,2008-11-26 02:09:21,2009-01-08 00:00:00,0,149,3169,Babylon Rules,2,Album,2008-11-26 02:06:57,11,106,,190833,394,Rock,When My Ship Comes In
+574,0,2008-11-26 02:09:21,2009-01-08 00:00:00,0,149,3169,Babylon Rules,2,Album,2008-11-26 02:06:57,11,106,,219522,267,Rock,Caliente Queen
+575,0,2008-11-26 02:09:27,2009-01-16 00:00:00,0,150,395,unreleased Clyde Rourke mp3s,4,Single Tracks,2008-11-26 02:07:04,0,107,Chicago IL,320000,342,Rock,Shining the Diamond
+576,0,2008-11-26 02:09:27,2009-01-16 00:00:00,0,150,395,unreleased Clyde Rourke mp3s,4,Single Tracks,2008-11-26 02:07:04,0,107,Chicago IL,160000,265,Rock,Shot At the Post Office
+577,0,2008-11-26 02:09:27,2009-01-16 00:00:00,0,150,395,unreleased Clyde Rourke mp3s,4,Single Tracks,2008-11-26 02:07:04,0,107,Chicago IL,320000,130,Rock,It Got in The Way
+578,0,2008-11-26 02:09:27,2009-01-16 00:00:00,0,150,395,unreleased Clyde Rourke mp3s,4,Single Tracks,2008-11-26 02:07:04,0,107,Chicago IL,320000,241,Rock,tan man
+579,0,2008-11-26 02:09:40,2008-01-01 00:00:00,0,151,807,CoCoComa,0,Album,2008-11-26 02:07:16,2,108,Chicago IL,256000,143,Rock,(Tryin' To) Read My Mind
+580,0,2008-11-26 02:09:40,2008-01-01 00:00:00,0,151,807,CoCoComa,0,Album,2008-11-26 02:07:16,2,108,Chicago IL,256000,183,Rock,Premonition
+583,0,2008-11-26 02:09:49,2009-01-08 00:00:00,0,154,1941,WAR (If It Feels Good Do It!),4,Album,2008-11-26 02:07:25,1,111,San Francisco CA,256000,134,Hip-Hop,"WAR (If It Feels Good, Do It!)"
+584,0,2008-11-26 02:09:49,2009-01-08 00:00:00,0,154,1941,WAR (If It Feels Good Do It!),4,Album,2008-11-26 02:07:25,1,111,San Francisco CA,256000,228,Hip-Hop,Liberate The Children (Live)
+585,0,2008-11-26 02:09:49,2009-01-08 00:00:00,0,154,1941,WAR (If It Feels Good Do It!),4,Album,2008-11-26 02:07:25,1,111,San Francisco CA,256000,122,Hip-Hop,Weapons? What Weapons of Mass Destruction? (Live)
+586,0,2008-11-26 02:09:49,2009-01-08 00:00:00,0,154,1941,WAR (If It Feels Good Do It!),4,Album,2008-11-26 02:07:25,1,111,San Francisco CA,256000,121,Hip-Hop,War Is What They Got (Epilogue)
+587,0,2008-11-26 02:09:56,2009-01-08 00:00:00,0,155,383,Puppy Kitty or Both,2,Album,2008-11-26 02:07:33,7,112,San Francisco CA,192000,99,Experimental,A+ Cannibal
+588,1,2008-11-26 02:09:58,2009-01-08 00:00:00,0,156,529,Insects Awaken,1,Album,2008-11-26 02:07:33,7,112,San Francisco CA,128000,72,Experimental,Exit Villager
+589,0,2008-11-26 02:09:56,2009-01-08 00:00:00,0,155,383,Puppy Kitty or Both,2,Album,2008-11-26 02:07:33,7,112,San Francisco CA,192000,49,Experimental,A Time To Bear Arms
+590,2,2008-11-26 02:10:00,2009-01-08 00:00:00,3,157,11035,Finally Here,4,Album,2008-11-26 02:07:36,5,113,Brooklyn NY,160000,131,Jazz,Stuck
+591,2,2008-11-26 02:10:00,2009-01-08 00:00:00,3,157,11035,Finally Here,4,Album,2008-11-26 02:07:36,5,113,Brooklyn NY,160000,228,Jazz,Without A Sound
+592,2,2008-11-26 02:10:00,2009-01-08 00:00:00,3,157,11035,Finally Here,4,Album,2008-11-26 02:07:36,5,113,Brooklyn NY,160000,206,Jazz,Song X
+593,2,2008-11-26 02:10:00,2009-01-08 00:00:00,3,157,11035,Finally Here,4,Album,2008-11-26 02:07:36,5,113,Brooklyn NY,160000,189,Jazz,Finally Here
+601,0,2009-01-07 09:05:50,2005-03-05 00:00:00,0,1695,76,Habitats In the Wound,1,Album,2008-11-26 02:08:29,1,122,,128000,432,Folk,Ingrate
+602,0,2009-01-07 08:52:30,2007-12-04 00:00:00,0,1692,1019,Clones of Eros,2,Album,2008-11-26 02:08:29,1,122,,160000,445,Folk,Disappearing
+603,0,2009-01-07 08:52:30,2007-12-04 00:00:00,0,1692,1019,Clones of Eros,2,Album,2008-11-26 02:08:29,1,122,,128000,439,Folk,Lover of Nightmares
+604,0,2008-11-26 02:10:56,2008-01-01 00:00:00,0,168,352,12 December 2007,1,Live Performance,2008-11-26 02:08:29,1,122,,128000,303,Folk,Real Prisons
+605,0,2008-11-26 02:10:59,2009-01-08 00:00:00,0,169,1999,Double Dagger,2,Album,2008-11-26 02:08:33,7,123,,112000,108,Rock,I Was So Bored I Wanted To Hang Myself On The Dancefloor
+606,0,2009-01-08 10:31:14,2005-01-01 00:00:00,0,1703,583,Double Dagger demo,2,Album,2008-11-26 02:08:33,7,123,,64000,94,Rock,Attack of the Clones
+607,0,2009-01-08 10:31:14,2005-01-01 00:00:00,0,1703,583,Double Dagger demo,2,Album,2008-11-26 02:08:33,7,123,,64000,120,Rock,Clare (Undone)
+608,0,2008-11-26 02:10:59,2009-01-08 00:00:00,0,169,1999,Double Dagger,2,Album,2008-11-26 02:08:33,7,123,,112000,159,Rock,Punk Rock vs. Swiss Modernism
+609,0,2008-11-26 02:11:02,2009-01-08 00:00:00,0,170,418,Ragged Rubble,1,Album,2008-11-26 02:08:33,7,123,,128000,174,Rock,The Psychic
+610,0,2008-11-26 02:11:05,2006-03-22 00:00:00,1,171,508,"""rebukes!""",0,Album,2008-11-26 02:08:39,5,124,Portland OR,192000,150,Folk,Aces
+611,0,2008-11-26 02:11:06,2003-08-20 00:00:00,0,172,369,Dragging an Ox Through Water - S/T3INCH,0,Album,2008-11-26 02:08:39,5,124,Portland OR,192000,128,Folk,Bowl of Salt
+612,0,2008-11-26 02:11:08,2008-10-04 00:00:00,0,173,567,The Tropics of Phenomenon,0,Album,2008-11-26 02:08:39,5,124,Portland OR,192000,225,Folk,Snowbank Treatment
+613,0,2008-11-26 02:11:10,2006-05-01 00:00:00,0,174,113,a prairie elephant remembers...,0,Single Tracks,2008-11-26 02:08:43,0,125,,192000,342,,A Dorsal Account (the roof didn't stand a chance)
+614,-1,,,-1,-1,-1,,-1,,2008-11-26 02:08:39,5,124,Portland OR,192000,182,Folk,Plaisir D'Amour (feat. Dana Dart Maclean)
+615,0,2008-11-26 02:11:16,2009-01-08 00:00:00,0,175,1410,Immaterial,2,Album,2008-11-26 02:08:49,0,126,Chicago IL,256000,519,Experimental,Immaterial side A
+616,0,2008-11-26 02:11:16,2009-01-08 00:00:00,0,175,1410,Immaterial,2,Album,2008-11-26 02:08:49,0,126,Chicago IL,256000,687,Experimental,Immaterial side B
+617,0,2008-11-26 02:11:28,,0,176,2865,Viridian City,13,Album,2008-11-26 02:08:52,7,127,New York NY,256000,250,Folk,Burning Buddhas
+618,0,2008-11-26 02:11:28,,0,176,2865,Viridian City,13,Album,2008-11-26 02:08:52,7,127,New York NY,256000,264,Folk,Smoke
+619,0,2008-11-26 02:11:28,,0,176,2865,Viridian City,13,Album,2008-11-26 02:08:52,7,127,New York NY,256000,198,Folk,Pebble Beach
+620,0,2008-11-26 02:11:28,,0,176,2865,Viridian City,13,Album,2008-11-26 02:08:52,7,127,New York NY,256000,205,Folk,Arabesque
+621,0,2008-11-26 02:11:38,2009-01-07 00:00:00,0,177,1329,Rainy Day Song,2,Album,2008-11-26 02:08:52,7,127,New York NY,256000,161,Folk,Blue Eyed Baby
+622,0,2008-11-26 02:11:28,,0,176,2865,Viridian City,13,Album,2008-11-26 02:08:52,7,127,New York NY,256000,441,Folk,Paper Cup
+623,0,2008-11-26 02:11:28,,0,176,2865,Viridian City,13,Album,2008-11-26 02:08:52,7,127,New York NY,256000,231,Folk,The Cup Bearer (Jony Mede)
+624,0,2008-11-26 02:11:28,,0,176,2865,Viridian City,13,Album,2008-11-26 02:08:52,7,127,New York NY,256000,324,Folk,Made In The City
+625,0,2008-11-26 02:11:38,2009-01-07 00:00:00,0,177,1329,Rainy Day Song,2,Album,2008-11-26 02:08:52,7,127,New York NY,256000,234,Folk,Climbing To The Top
+626,0,2008-11-26 02:11:28,,0,176,2865,Viridian City,13,Album,2008-11-26 02:08:52,7,127,New York NY,256000,343,Folk,At Home In The Factory
+627,0,2008-11-26 02:11:28,,0,176,2865,Viridian City,13,Album,2008-11-26 02:08:52,7,127,New York NY,256000,268,Folk,Black Bird
+628,0,2008-11-26 02:11:28,,0,176,2865,Viridian City,13,Album,2008-11-26 02:08:52,7,127,New York NY,256000,310,Folk,Friday Night
+629,0,2008-11-26 02:11:28,,0,176,2865,Viridian City,13,Album,2008-11-26 02:08:52,7,127,New York NY,256000,344,Folk,Dancing On Water
+630,0,2008-11-26 02:11:28,,0,176,2865,Viridian City,13,Album,2008-11-26 02:08:52,7,127,New York NY,256000,216,Folk,The City
+631,0,2008-11-26 02:11:28,,0,176,2865,Viridian City,13,Album,2008-11-26 02:08:52,7,127,New York NY,256000,246,Folk,Buddha Smiles
+633,0,2008-11-26 02:12:23,2009-01-08 00:00:00,0,179,1551,"Funeral Home Session 7""",3,Album,2008-11-26 02:09:53,22,128,Columbus OH,128000,222,Rock,Indian Giver
+634,0,2008-11-26 02:12:23,2009-01-08 00:00:00,0,179,1551,"Funeral Home Session 7""",3,Album,2008-11-26 02:09:53,22,128,Columbus OH,128000,154,Rock,LGNO
+635,0,2008-11-26 02:12:23,2009-01-08 00:00:00,0,179,1551,"Funeral Home Session 7""",3,Album,2008-11-26 02:09:53,22,128,Columbus OH,128000,133,Rock,Xmas at Wounded Knee
+637,0,2008-11-26 02:13:10,1999-01-01 00:00:00,0,181,152,Radio Reverie in the Waiting Place,2,Album,2008-11-26 02:10:42,0,130,,256000,421,Experimental,The March
+638,0,2008-11-26 02:13:10,1999-01-01 00:00:00,0,181,152,Radio Reverie in the Waiting Place,2,Album,2008-11-26 02:10:42,0,130,,256000,237,Experimental,The Vultures Midwife
+639,0,2008-11-26 02:13:20,2009-01-13 00:00:00,0,182,55,Rarebit,1,Album,2008-11-26 02:10:52,0,131,,297275,635,Experimental,Near and Distant Relations
+640,0,2008-11-26 02:13:27,2007-01-01 00:00:00,0,183,959,Dancing Walls Stir the Prairies,1,Album,2009-01-13 07:36:43,0,1700,,256000,172,Spoken,Waltz of the Parking Meters
+641,0,2008-11-26 02:13:29,2005-01-01 00:00:00,0,184,1945,Spree: An Escape From Reality,15,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,124,Electronic,Side One - Introduction
+642,0,2008-11-26 02:13:33,2001-05-01 00:00:00,1,185,314,SNAP!,2,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,500,Electronic,SNAP! (side one of two)
+643,0,2008-11-26 02:13:29,2005-01-01 00:00:00,0,184,1945,Spree: An Escape From Reality,15,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,83,Electronic,Side One - The Talent Contest
+644,0,2008-11-26 02:13:33,2001-05-01 00:00:00,1,185,314,SNAP!,2,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,738,Electronic,SNAP! (side two of two)
+645,0,2008-11-26 02:13:29,2005-01-01 00:00:00,0,184,1945,Spree: An Escape From Reality,15,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,349,Electronic,Side One - Dear Mr. Depieu
+646,0,2008-11-26 02:13:29,2005-01-01 00:00:00,0,184,1945,Spree: An Escape From Reality,15,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,197,Electronic,Side One - Reprise / The Bullshit Business Proposal / (end)
+647,0,2008-11-26 02:13:29,2005-01-01 00:00:00,0,184,1945,Spree: An Escape From Reality,15,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,94,Electronic,Side Two - Reset (and the Great Joke)
+648,0,2008-11-26 02:13:29,2005-01-01 00:00:00,0,184,1945,Spree: An Escape From Reality,15,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,321,Electronic,Side Two - Praise the Lord and Give Thanks
+649,0,2008-11-26 02:13:29,2005-01-01 00:00:00,0,184,1945,Spree: An Escape From Reality,15,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,122,Electronic,Side Two - Bean Bag
+650,0,2008-11-26 02:13:29,2005-01-01 00:00:00,0,184,1945,Spree: An Escape From Reality,15,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,318,Electronic,Side Two - Jake's Theme / Intermission
+651,0,2008-11-26 02:13:29,2005-01-01 00:00:00,0,184,1945,Spree: An Escape From Reality,15,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,180,Electronic,Side Three - Part One / Start
+652,0,2008-11-26 02:13:29,2005-01-01 00:00:00,0,184,1945,Spree: An Escape From Reality,15,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,180,Electronic,Side Three - Part Two
+653,0,2008-11-26 02:13:29,2005-01-01 00:00:00,0,184,1945,Spree: An Escape From Reality,15,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,180,Electronic,Side Three - Part Three
+654,0,2008-11-26 02:13:29,2005-01-01 00:00:00,0,184,1945,Spree: An Escape From Reality,15,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,180,Electronic,Side Three - Part Four
+655,0,2008-11-26 02:13:29,2005-01-01 00:00:00,0,184,1945,Spree: An Escape From Reality,15,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,390,Electronic,Side Three - Part Five / Stop
+656,0,2008-11-26 02:13:29,2005-01-01 00:00:00,0,184,1945,Spree: An Escape From Reality,15,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,288,Electronic,Side Four - Easy Slow and Easy (finale)
+657,0,2008-11-26 02:13:29,2005-01-01 00:00:00,0,184,1945,Spree: An Escape From Reality,15,Album,2008-11-26 02:11:01,5,133,Austin TX,192000,314,Electronic,Side Four - Record Label Track / Conclusion
+658,0,2008-11-26 02:14:18,2009-01-08 00:00:00,0,186,444,"""I Stayed Home ..."" (single)",1,Single Tracks,2008-11-26 02:11:01,5,133,Austin TX,160000,641,Electronic,I Stayed Home ...
+659,0,2008-11-26 02:14:23,2002-10-01 00:00:00,0,187,2565,25 Lessons in HYPNOTISM,6,Album,2008-11-26 02:11:01,5,133,Austin TX,160000,460,Electronic,side 1 - complaint (knock on wood)
+660,0,2008-11-26 02:14:23,2002-10-01 00:00:00,0,187,2565,25 Lessons in HYPNOTISM,6,Album,2008-11-26 02:11:01,5,133,Austin TX,160000,303,Electronic,side 2 - dear mary elizabeth
+661,0,2008-11-26 02:14:23,2002-10-01 00:00:00,0,187,2565,25 Lessons in HYPNOTISM,6,Album,2008-11-26 02:11:01,5,133,Austin TX,160000,459,Electronic,side 3 - hidden speaking powers!
+662,0,2008-11-26 02:14:23,2002-10-01 00:00:00,0,187,2565,25 Lessons in HYPNOTISM,6,Album,2008-11-26 02:11:01,5,133,Austin TX,160000,114,Electronic,side 4 - upset german screaming
+663,0,2008-11-26 02:14:23,2002-10-01 00:00:00,0,187,2565,25 Lessons in HYPNOTISM,6,Album,2008-11-26 02:11:01,5,133,Austin TX,160000,628,Electronic,side 5 - conclusion
+664,0,2008-11-26 02:14:23,2002-10-01 00:00:00,0,187,2565,25 Lessons in HYPNOTISM,6,Album,2008-11-26 02:11:01,5,133,Austin TX,160000,174,Electronic,side 6 - not funny
+665,0,2009-01-08 12:05:17,2009-01-08 00:00:00,0,1707,3879,Forty Minutes Forty Memories: Horrible Music by Ethan Persoff,1,Live Performance,2008-11-26 02:11:01,5,133,Austin TX,192000,268,Electronic,Disneyland (edit)
+666,0,2008-11-26 02:14:43,2009-01-08 00:00:00,1,189,3883,summer 2008 demos,2,Single Tracks,2008-11-26 02:12:13,15,135,Portland OR,256000,235,International,Heat
+667,0,2008-11-26 02:14:43,2009-01-08 00:00:00,1,189,3883,summer 2008 demos,2,Single Tracks,2008-11-26 02:12:13,15,135,Portland OR,256000,246,International,Sharpen The Knife
+668,0,2008-11-26 02:14:49,2007-01-01 00:00:00,0,190,5339,Change Thoughts (radio edit),11,Album,2008-11-26 02:12:20,3,136,,256000,221,Hip-Hop,Dream
+669,0,2008-11-26 02:14:53,2007-01-01 00:00:00,0,191,2695,Change Thoughts,11,Album,2008-11-26 02:12:20,3,136,,256000,224,Hip-Hop,Dream
+670,0,2008-11-26 02:14:49,2007-01-01 00:00:00,0,190,5339,Change Thoughts (radio edit),11,Album,2008-11-26 02:12:20,3,136,,256000,258,Hip-Hop,Triflin
+671,0,2008-11-26 02:14:53,2007-01-01 00:00:00,0,191,2695,Change Thoughts,11,Album,2008-11-26 02:12:20,3,136,,256000,258,Hip-Hop,Triflin
+672,0,2008-11-26 02:14:49,2007-01-01 00:00:00,0,190,5339,Change Thoughts (radio edit),11,Album,2008-11-26 02:12:20,3,136,,256000,182,Hip-Hop,Rise
+673,0,2008-11-26 02:14:53,2007-01-01 00:00:00,0,191,2695,Change Thoughts,11,Album,2008-11-26 02:12:20,3,136,,256000,180,Hip-Hop,Rise
+674,0,2008-11-26 02:14:49,2007-01-01 00:00:00,0,190,5339,Change Thoughts (radio edit),11,Album,2008-11-26 02:12:20,3,136,,256000,253,Hip-Hop,Enterprizin
+675,0,2008-11-26 02:14:53,2007-01-01 00:00:00,0,191,2695,Change Thoughts,11,Album,2008-11-26 02:12:20,3,136,,256000,251,Hip-Hop,Enterprizin
+676,0,2008-11-26 02:14:49,2007-01-01 00:00:00,0,190,5339,Change Thoughts (radio edit),11,Album,2008-11-26 02:12:20,3,136,,256000,197,Hip-Hop,The Tension
+677,0,2008-11-26 02:14:53,2007-01-01 00:00:00,0,191,2695,Change Thoughts,11,Album,2008-11-26 02:12:20,3,136,,256000,198,Hip-Hop,The_Tension
+678,0,2008-11-26 02:14:49,2007-01-01 00:00:00,0,190,5339,Change Thoughts (radio edit),11,Album,2008-11-26 02:12:20,3,136,,256000,341,Hip-Hop,Change Thoughts
+679,0,2008-11-26 02:14:53,2007-01-01 00:00:00,0,191,2695,Change Thoughts,11,Album,2008-11-26 02:12:20,3,136,,256000,340,Hip-Hop,Change Thoughts
+680,0,2008-11-26 02:14:49,2007-01-01 00:00:00,0,190,5339,Change Thoughts (radio edit),11,Album,2008-11-26 02:12:20,3,136,,256000,181,Hip-Hop,Sunshine
+681,0,2008-11-26 02:14:53,2007-01-01 00:00:00,0,191,2695,Change Thoughts,11,Album,2008-11-26 02:12:20,3,136,,256000,181,Hip-Hop,Sunshine
+682,0,2008-11-26 02:14:49,2007-01-01 00:00:00,0,190,5339,Change Thoughts (radio edit),11,Album,2008-11-26 02:12:20,3,136,,256000,226,Hip-Hop,Killer Crossover
+683,0,2008-11-26 02:14:53,2007-01-01 00:00:00,0,191,2695,Change Thoughts,11,Album,2008-11-26 02:12:20,3,136,,256000,218,Hip-Hop,Killer Crossover
+684,0,2008-11-26 02:14:49,2007-01-01 00:00:00,0,190,5339,Change Thoughts (radio edit),11,Album,2008-11-26 02:12:20,3,136,,256000,316,Hip-Hop,Late Night Show
+685,0,2008-11-26 02:14:53,2007-01-01 00:00:00,0,191,2695,Change Thoughts,11,Album,2008-11-26 02:12:20,3,136,,256000,319,Hip-Hop,late Night Show
+686,0,2008-11-26 02:14:49,2007-01-01 00:00:00,0,190,5339,Change Thoughts (radio edit),11,Album,2008-11-26 02:12:20,3,136,,256000,198,Hip-Hop,Murder
+687,0,2008-11-26 02:14:53,2007-01-01 00:00:00,0,191,2695,Change Thoughts,11,Album,2008-11-26 02:12:20,3,136,,256000,197,Hip-Hop,Murder
+688,0,2008-11-26 02:14:49,2007-01-01 00:00:00,0,190,5339,Change Thoughts (radio edit),11,Album,2008-11-26 02:12:20,3,136,,256000,303,Hip-Hop,Propose A Toast
+689,0,2008-11-26 02:14:53,2007-01-01 00:00:00,0,191,2695,Change Thoughts,11,Album,2008-11-26 02:12:20,3,136,,256000,302,Hip-Hop,Propose A Toast
+690,0,2008-11-26 02:15:57,2009-01-08 00:00:00,0,192,5718,Cataclysm,1,Album,2008-11-26 02:13:27,18,137,Chicago IL,256000,290,Rock,Cataclysm
+691,0,2009-01-08 12:46:10,2002-01-01 00:00:00,0,1708,472,Retrospectiw IV,1,Album,2008-11-26 02:13:27,18,137,Chicago IL,256000,365,Rock,Into the Vastness of Stupidity
+692,0,2008-11-26 02:16:09,2004-01-01 00:00:00,0,194,573,The Void,1,Album,2008-11-26 02:13:27,18,137,Chicago IL,256000,227,Rock,Part 4
+693,0,2008-11-26 02:16:14,2009-01-08 00:00:00,0,195,326,Trauma,1,Album,2008-11-26 02:13:27,18,137,Chicago IL,256000,559,Rock,Trauma 11
+694,0,2008-11-26 02:16:18,2007-11-30 00:00:00,0,196,7723,mp3 single with Faust,1,Single Tracks,2008-11-26 02:13:47,13,138,Baltimore MD,160000,291,Hip-Hop,Planet Say (featuring Faust)
+695,0,2008-11-26 02:16:20,2009-01-08 00:00:00,0,197,2822,Cock Rock Disco 2006 Free Compilation,1,Album,2008-11-26 02:13:47,13,138,Baltimore MD,160000,104,Hip-Hop,Elephants
+696,0,2008-11-26 02:16:21,2006-01-01 00:00:00,0,198,4226,Fuck The Future,8,Album,2008-11-26 02:13:50,17,139,Los Angeles CA,256000,130,Rock,Korea
+697,0,2008-11-26 02:16:21,2006-01-01 00:00:00,0,198,4226,Fuck The Future,8,Album,2008-11-26 02:13:50,17,139,Los Angeles CA,256000,173,Rock,Isle of Man
+698,0,2008-11-26 02:16:21,2006-01-01 00:00:00,0,198,4226,Fuck The Future,8,Album,2008-11-26 02:13:50,17,139,Los Angeles CA,256000,88,Rock,Iran
+699,0,2008-11-26 02:16:21,2006-01-01 00:00:00,0,198,4226,Fuck The Future,8,Album,2008-11-26 02:13:50,17,139,Los Angeles CA,256000,191,Rock,Antarctica
+700,0,2008-11-26 02:16:21,2006-01-01 00:00:00,0,198,4226,Fuck The Future,8,Album,2008-11-26 02:13:50,17,139,Los Angeles CA,256000,131,Rock,Ehtiopia
+701,0,2008-11-26 02:16:21,2006-01-01 00:00:00,0,198,4226,Fuck The Future,8,Album,2008-11-26 02:13:50,17,139,Los Angeles CA,256000,130,Rock,Japan
+702,0,2008-11-26 02:16:21,2006-01-01 00:00:00,0,198,4226,Fuck The Future,8,Album,2008-11-26 02:13:50,17,139,Los Angeles CA,256000,162,Rock,Mexico
+703,0,2008-11-26 02:16:21,2006-01-01 00:00:00,0,198,4226,Fuck The Future,8,Album,2008-11-26 02:13:50,17,139,Los Angeles CA,256000,239,Rock,Peru Austria and Canada
+704,0,2008-11-26 02:16:37,2007-01-01 00:00:00,3,199,17169,Macondo,6,Album,2008-11-26 02:14:06,4,140,Los Angeles CA,256000,310,International,Mano De Dios
+705,0,2008-11-26 02:16:37,2007-01-01 00:00:00,3,199,17169,Macondo,6,Album,2008-11-26 02:14:06,4,140,Los Angeles CA,256000,369,International,Tio Cocodrilo
+706,0,2008-11-26 02:16:37,2007-01-01 00:00:00,3,199,17169,Macondo,6,Album,2008-11-26 02:14:06,4,140,Los Angeles CA,256000,312,International,Esto Es Califas
+707,0,2008-11-26 02:16:37,2007-01-01 00:00:00,3,199,17169,Macondo,6,Album,2008-11-26 02:14:06,4,140,Los Angeles CA,256000,330,International,Cochabamba
+708,0,2008-11-26 02:16:37,2007-01-01 00:00:00,3,199,17169,Macondo,6,Album,2008-11-26 02:14:06,4,140,Los Angeles CA,256000,289,International,Desconocido
+709,0,2008-11-26 02:16:37,2007-01-01 00:00:00,3,199,17169,Macondo,6,Album,2008-11-26 02:14:06,4,140,Los Angeles CA,192000,192,International,Cumbia De Obama
+711,0,2008-11-26 02:16:59,2009-01-09 00:00:00,1,201,348,The Severed Tongue Speaks For Everyone,3,Album,2008-11-26 02:14:27,0,142,Chicago IL,160000,159,Rock,Kamikaze!
+712,0,2008-11-26 02:16:59,2009-01-09 00:00:00,1,201,348,The Severed Tongue Speaks For Everyone,3,Album,2008-11-26 02:14:27,0,142,Chicago IL,160000,191,Rock,Loch Ness Primitive
+713,0,2008-11-26 02:16:59,2009-01-09 00:00:00,1,201,348,The Severed Tongue Speaks For Everyone,3,Album,2008-11-26 02:14:27,0,142,Chicago IL,160000,143,Rock,No Idea
+714,0,2008-11-26 02:17:04,2009-01-09 00:00:00,2,202,1248,The Cult From Moon Mountain,2,Album,2008-11-26 02:14:32,23,143,Philadelphia PA,256000,338,Folk,Circle Moon
+715,0,2008-11-26 02:17:08,2008-03-18 00:00:00,2,203,5100,Kobold Moon,3,Album,2008-11-26 02:14:32,23,143,Philadelphia PA,256000,283,Folk,Kokopelli
+716,0,2008-11-26 02:17:08,2008-03-18 00:00:00,2,203,5100,Kobold Moon,3,Album,2008-11-26 02:14:32,23,143,Philadelphia PA,256000,297,Folk,Saxalainen
+717,0,2008-11-26 02:17:04,2009-01-09 00:00:00,2,202,1248,The Cult From Moon Mountain,2,Album,2008-11-26 02:14:32,23,143,Philadelphia PA,256000,451,Folk,Tyranny
+718,0,2008-11-26 02:17:08,2008-03-18 00:00:00,2,203,5100,Kobold Moon,3,Album,2008-11-26 02:14:32,23,143,Philadelphia PA,256000,128,Folk,Song Of The Spindle Berry
+719,0,2008-11-26 02:17:20,2007-01-01 00:00:00,0,204,1005,Take A hit,5,Album,2008-11-26 02:14:48,2,144,PO Box 11568 / Balt MD 21229,256000,299,Rock,Florida Tags
+720,0,2008-11-26 02:17:20,2007-01-01 00:00:00,0,204,1005,Take A hit,5,Album,2008-11-26 02:14:48,2,144,PO Box 11568 / Balt MD 21229,256000,190,Rock,Camera Shy
+721,0,2008-11-26 02:17:20,2007-01-01 00:00:00,0,204,1005,Take A hit,5,Album,2008-11-26 02:14:48,2,144,PO Box 11568 / Balt MD 21229,256000,117,Rock,Evil Twin
+722,0,2008-11-26 02:17:20,2007-01-01 00:00:00,0,204,1005,Take A hit,5,Album,2008-11-26 02:14:48,2,144,PO Box 11568 / Balt MD 21229,256000,204,Rock,Looking For A kiss
+723,0,2008-11-26 02:17:20,2007-01-01 00:00:00,0,204,1005,Take A hit,5,Album,2008-11-26 02:14:48,2,144,PO Box 11568 / Balt MD 21229,256000,1048,Rock,Take A hit
+725,0,2008-11-26 02:17:48,2009-01-09 00:00:00,0,206,225,Live In the Men's and Women's Room,2,Live Performance,2008-11-26 02:15:11,3,145,Los Angeles CA,160000,785,Experimental,"Gang Wizard ""Men's Restroom"""
+726,0,2008-11-26 02:17:52,2009-01-09 00:00:00,0,207,522,Live at LongHaul,5,Live Performance,2008-11-26 02:15:11,3,145,Los Angeles CA,160000,120,Experimental,Track 01
+727,0,2008-11-26 02:17:52,2009-01-09 00:00:00,0,207,522,Live at LongHaul,5,Live Performance,2008-11-26 02:15:11,3,145,Los Angeles CA,160000,251,Experimental,Track 02
+728,0,2008-11-26 02:17:48,2009-01-09 00:00:00,0,206,225,Live In the Men's and Women's Room,2,Live Performance,2008-11-26 02:15:11,3,145,Los Angeles CA,160000,574,Experimental,"Yellow Swans ""Women's Restroom"""
+729,0,2008-11-26 02:17:52,2009-01-09 00:00:00,0,207,522,Live at LongHaul,5,Live Performance,2008-11-26 02:15:11,3,145,Los Angeles CA,160000,300,Experimental,Track 03
+730,0,2008-11-26 02:17:52,2009-01-09 00:00:00,0,207,522,Live at LongHaul,5,Live Performance,2008-11-26 02:15:11,3,145,Los Angeles CA,160000,510,Experimental,Track 04
+731,0,2008-11-26 02:17:52,2009-01-09 00:00:00,0,207,522,Live at LongHaul,5,Live Performance,2008-11-26 02:15:11,3,145,Los Angeles CA,160000,340,Experimental,Track 05
+734,3,2008-11-26 02:18:14,2003-02-01 00:00:00,4,210,14498,Love Love Love,8,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,128,Soul-RnB,Crystal Migraine
+735,0,2008-11-26 02:18:16,2005-07-26 00:00:00,0,211,10265,Iko,8,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,298,Soul-RnB,Iko! Iko!
+736,0,2008-11-26 02:18:21,2003-06-30 00:00:00,2,212,5704,Demos June 2003,6,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,265,Soul-RnB,You Are the Fly
+737,1,2008-11-26 02:18:25,2004-05-01 00:00:00,0,213,7367,The Sick Sound of...,6,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,446,Soul-RnB,Youe Deam Lover's On Video Again
+738,0,2008-11-26 02:18:21,2003-06-30 00:00:00,2,212,5704,Demos June 2003,6,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,172,Soul-RnB,Cold Party
+739,3,2008-11-26 02:18:14,2003-02-01 00:00:00,4,210,14498,Love Love Love,8,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,247,Soul-RnB,Hurt
+740,1,2008-11-26 02:18:25,2004-05-01 00:00:00,0,213,7367,The Sick Sound of...,6,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,477,Soul-RnB,Life After Sundown
+741,0,2008-11-26 02:18:16,2005-07-26 00:00:00,0,211,10265,Iko,8,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,425,Soul-RnB,Sugar &amp Whitebread
+742,1,2008-11-26 02:18:25,2004-05-01 00:00:00,0,213,7367,The Sick Sound of...,6,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,347,Soul-RnB,B-Girls
+743,3,2008-11-26 02:18:14,2003-02-01 00:00:00,4,210,14498,Love Love Love,8,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,215,Soul-RnB,Brittle Woman
+744,0,2008-11-26 02:18:16,2005-07-26 00:00:00,0,211,10265,Iko,8,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,405,Soul-RnB,Lovin' Machine
+745,0,2008-11-26 02:18:21,2003-06-30 00:00:00,2,212,5704,Demos June 2003,6,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,338,Soul-RnB,Nite Nurses
+747,1,2008-11-26 02:18:25,2004-05-01 00:00:00,0,213,7367,The Sick Sound of...,6,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,320,Soul-RnB,Nite Nurses
+748,0,2008-11-26 02:18:16,2005-07-26 00:00:00,0,211,10265,Iko,8,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,424,Soul-RnB,track 4
+749,0,2008-11-26 02:18:21,2003-06-30 00:00:00,2,212,5704,Demos June 2003,6,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,261,Soul-RnB,Your Deam Lover's On Video Again
+750,0,2008-11-26 02:18:16,2005-07-26 00:00:00,0,211,10265,Iko,8,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,299,Soul-RnB,Iko! Iko! (vocal/conga mix)
+751,3,2008-11-26 02:18:14,2003-02-01 00:00:00,4,210,14498,Love Love Love,8,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,132,Soul-RnB,Love Love Love
+752,0,2008-11-26 02:18:21,2003-06-30 00:00:00,2,212,5704,Demos June 2003,6,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,185,Soul-RnB,The Chameleon
+753,1,2008-11-26 02:18:25,2004-05-01 00:00:00,0,213,7367,The Sick Sound of...,6,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,159,Soul-RnB,track 5
+754,1,2008-11-26 02:18:25,2004-05-01 00:00:00,0,213,7367,The Sick Sound of...,6,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,265,Soul-RnB,Labrea Tar Pit
+755,3,2008-11-26 02:18:14,2003-02-01 00:00:00,4,210,14498,Love Love Love,8,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,167,Soul-RnB,Love On a Plate
+756,0,2008-11-26 02:18:16,2005-07-26 00:00:00,0,211,10265,Iko,8,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,475,Soul-RnB,Sugar &amp Whitebread (instrumental)
+757,0,2008-11-26 02:18:21,2003-06-30 00:00:00,2,212,5704,Demos June 2003,6,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,206,Soul-RnB,track 6
+758,0,2008-11-26 02:18:16,2005-07-26 00:00:00,0,211,10265,Iko,8,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,346,Soul-RnB,Lovin' Machine (nite Vocoder version)
+759,3,2008-11-26 02:18:14,2003-02-01 00:00:00,4,210,14498,Love Love Love,8,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,191,Soul-RnB,Night Nurses
+760,3,2008-11-26 02:18:14,2003-02-01 00:00:00,4,210,14498,Love Love Love,8,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,263,Soul-RnB,Empty V
+761,0,2008-11-26 02:18:16,2005-07-26 00:00:00,0,211,10265,Iko,8,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,406,Soul-RnB,Lovin' Machine (vocal dub)
+762,0,2008-11-26 02:20:05,2009-01-09 00:00:00,1,214,10686,Live at Death Disco 9/26/2001,6,Live Performance,2008-11-26 02:15:42,42,147,Portland OR,256000,130,Soul-RnB,Crystal Migraine
+763,1,2008-11-26 02:20:09,2001-06-01 00:00:00,2,215,13285,Demos 31 37,9,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,160,Soul-RnB,Love Love Love
+764,1,2008-11-26 02:20:09,2001-06-01 00:00:00,2,215,13285,Demos 31 37,9,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,221,Soul-RnB,Be a Dolly
+765,0,2008-11-26 02:20:05,2009-01-09 00:00:00,1,214,10686,Live at Death Disco 9/26/2001,6,Live Performance,2008-11-26 02:15:42,42,147,Portland OR,256000,138,Soul-RnB,Love Love Love
+766,1,2008-11-26 02:20:09,2001-06-01 00:00:00,2,215,13285,Demos 31 37,9,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,191,Soul-RnB,Love On a Plate
+767,0,2008-11-26 02:20:05,2009-01-09 00:00:00,1,214,10686,Live at Death Disco 9/26/2001,6,Live Performance,2008-11-26 02:15:42,42,147,Portland OR,256000,184,Soul-RnB,Love On a Plate
+768,1,2008-11-26 02:20:09,2001-06-01 00:00:00,2,215,13285,Demos 31 37,9,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,179,Soul-RnB,Brittle Woman
+769,0,2008-11-26 02:20:05,2009-01-09 00:00:00,1,214,10686,Live at Death Disco 9/26/2001,6,Live Performance,2008-11-26 02:15:42,42,147,Portland OR,256000,255,Soul-RnB,The Screamers
+770,1,2008-11-26 02:20:09,2001-06-01 00:00:00,2,215,13285,Demos 31 37,9,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,309,Soul-RnB,Black Veil
+771,0,2008-11-26 02:20:05,2009-01-09 00:00:00,1,214,10686,Live at Death Disco 9/26/2001,6,Live Performance,2008-11-26 02:15:42,42,147,Portland OR,256000,182,Soul-RnB,Brittle Woman
+772,1,2008-11-26 02:20:09,2001-06-01 00:00:00,2,215,13285,Demos 31 37,9,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,125,Soul-RnB,Johnny Are You Queer?
+773,0,2008-11-26 02:20:05,2009-01-09 00:00:00,1,214,10686,Live at Death Disco 9/26/2001,6,Live Performance,2008-11-26 02:15:42,42,147,Portland OR,256000,210,Soul-RnB,Nite Nurses
+774,1,2008-11-26 02:20:09,2001-06-01 00:00:00,2,215,13285,Demos 31 37,9,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,217,Soul-RnB,The Last Time
+775,1,2008-11-26 02:20:09,2001-06-01 00:00:00,2,215,13285,Demos 31 37,9,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,198,Soul-RnB,Nite Nurses
+776,1,2008-11-26 02:20:09,2001-06-01 00:00:00,2,215,13285,Demos 31 37,9,Album,2008-11-26 02:15:42,42,147,Portland OR,256000,311,Soul-RnB,Hurt
+777,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,90,Rock,Relaxing
+778,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,153,Rock,Don't Call Me Tonite / Very Good
+779,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,71,Rock,Causing Disturbances
+780,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,89,Rock,Don't Peek-O
+781,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,27,Rock,Shoe-Shopping High
+782,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,27,Rock,Self Examination of His Wife's Breasts
+783,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,51,Rock,Puffy Onyx
+784,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,8,Rock,Lemon Intermezzo
+785,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,27,Rock,The Plywood Curtain
+786,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,172,Rock,Electric Guru
+787,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,41,Rock,Booger-Flicking Winners Go Freeh
+788,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,39,Rock,Vert
+789,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,4,Rock,Do I Tingle?
+790,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,34,Rock,Up Two?
+791,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,101,Rock,6:30 Encephalitis Spraydown
+792,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,44,Rock,Everyone - am Masterbate
+793,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,145,Rock,The Hymn of the Honeymoon
+794,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,6,Rock,.07 Sec
+795,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,37,Rock,The Lower Frequencies
+796,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,102,Rock,We Would Be Friends
+797,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,109,Rock,Joe Pico
+798,0,2008-11-26 02:20:51,2000-01-01 00:00:00,0,216,8996,Quickies,22,Album,2008-11-26 02:18:17,6,149,Brooklyn NY,256000,13,Rock,Artificial Breasts Are Not New
+799,0,2008-11-26 02:21:21,2009-01-09 00:00:00,1,217,1413,He Knows He Knows He Knows,3,Album,2008-11-26 02:18:47,60,150,Portland OR,256000,298,Experimental,untitled1
+800,0,2008-11-26 02:21:21,2009-01-09 00:00:00,1,217,1413,He Knows He Knows He Knows,3,Album,2008-11-26 02:18:47,60,150,Portland OR,256000,186,Experimental,untitled2
+801,0,2008-11-26 02:21:21,2009-01-09 00:00:00,1,217,1413,He Knows He Knows He Knows,3,Album,2008-11-26 02:18:47,60,150,Portland OR,256000,115,Experimental,untitled3
+803,0,2008-11-26 02:21:38,2004-01-01 00:00:00,0,219,490,Character Assassination Bureau,2,Album,2008-11-26 02:19:05,10,151,Columbus OH,256000,181,Rock,Thinking About You
+804,0,2008-11-26 02:21:38,2004-01-01 00:00:00,0,219,490,Character Assassination Bureau,2,Album,2008-11-26 02:19:05,10,151,Columbus OH,256000,124,Rock,Chock Fool of Nuts
+805,0,2008-11-26 02:21:45,2007-01-01 00:00:00,0,220,394,Nightmare in a Ravaged Brain,1,Album,2008-11-26 02:19:05,10,151,Columbus OH,256000,110,Rock,Haymaker
+806,0,2008-11-26 02:21:47,2001-01-01 00:00:00,0,221,597,Duct Tape You,1,Album,2008-11-26 02:19:05,10,151,Columbus OH,320000,232,Rock,Hello from Ohio
+807,0,2008-11-26 02:21:51,,0,222,177,Fun With Your New Head,1,Album,2008-11-26 02:19:05,10,151,Columbus OH,256000,244,Rock,Spider Season
+814,0,2009-01-09 12:39:13,2000-01-09 00:00:00,0,1716,1254,Hall of Fame (2000),1,Album,2008-11-26 02:19:26,8,153,,256000,146,Folk,Motion Passings
+815,0,2008-12-04 09:25:10,2006-04-11 00:00:00,0,722,2023,unreleased mp3s from Hans Grüsel's,6,Single Tracks,2008-11-26 02:19:32,10,154,San Francisco CA,128000,176,Experimental,EinHauntedSommerplatz
+816,0,2008-12-04 09:25:10,2006-04-11 00:00:00,0,722,2023,unreleased mp3s from Hans Grüsel's,6,Single Tracks,2008-11-26 02:19:32,10,154,San Francisco CA,128000,199,Experimental,KränkentanzSuite
+817,0,2008-12-04 09:25:10,2006-04-11 00:00:00,0,722,2023,unreleased mp3s from Hans Grüsel's,6,Single Tracks,2008-11-26 02:19:32,10,154,San Francisco CA,128000,60,Experimental,Sechzig-Sechs
+818,0,2008-12-04 09:25:10,2006-04-11 00:00:00,0,722,2023,unreleased mp3s from Hans Grüsel's,6,Single Tracks,2008-11-26 02:19:32,10,154,San Francisco CA,128000,238,Experimental,WellegürtelNo.1
+819,0,2008-12-04 09:25:10,2006-04-11 00:00:00,0,722,2023,unreleased mp3s from Hans Grüsel's,6,Single Tracks,2008-11-26 02:19:32,10,154,San Francisco CA,128000,170,Experimental,suBwarren1
+820,0,2008-12-04 09:25:10,2006-04-11 00:00:00,0,722,2023,unreleased mp3s from Hans Grüsel's,6,Single Tracks,2008-11-26 02:19:32,10,154,San Francisco CA,128000,130,Experimental,suBwarren2
+821,0,2008-11-26 02:22:17,2008-03-18 00:00:00,0,227,1415,"Sir 12"" EP",3,Album,2008-11-26 02:19:43,2,155,Los Angeles CA,256000,200,Pop,Sir
+822,0,2008-11-26 02:22:17,2008-03-18 00:00:00,0,227,1415,"Sir 12"" EP",3,Album,2008-11-26 02:19:43,2,155,Los Angeles CA,256000,323,Pop,Tom & Jerry
+823,0,2008-11-26 02:22:17,2008-03-18 00:00:00,0,227,1415,"Sir 12"" EP",3,Album,2008-11-26 02:19:43,2,155,Los Angeles CA,256000,245,Pop,YES
+824,0,2008-11-26 02:22:47,2008-01-01 00:00:00,0,228,1535,Here Comes A Big Black Cloud!!,4,Single Tracks,2008-11-26 02:20:13,6,156,Portland OR,256000,165,Rock,Black Mold
+825,0,2008-11-26 02:22:50,2008-01-01 00:00:00,0,229,3090,Pompeii,3,Single Tracks,2008-11-26 02:20:13,6,156,Portland OR,128000,83,Rock,Death March
+826,0,2008-11-26 02:22:50,2008-01-01 00:00:00,0,229,3090,Pompeii,3,Single Tracks,2008-11-26 02:20:13,6,156,Portland OR,128000,258,Rock,Graverobbin
+827,0,2008-11-26 02:22:47,2008-01-01 00:00:00,0,228,1535,Here Comes A Big Black Cloud!!,4,Single Tracks,2008-11-26 02:20:13,6,156,Portland OR,256000,217,Rock,Psychic Violence
+828,0,2008-11-26 02:22:47,2008-01-01 00:00:00,0,228,1535,Here Comes A Big Black Cloud!!,4,Single Tracks,2008-11-26 02:20:13,6,156,Portland OR,256000,198,Rock,Scrilla
+829,0,2008-11-26 02:22:50,2008-01-01 00:00:00,0,229,3090,Pompeii,3,Single Tracks,2008-11-26 02:20:13,6,156,Portland OR,128000,144,Rock,The Fly Pt. II
+830,0,2008-11-26 02:22:47,2008-01-01 00:00:00,0,228,1535,Here Comes A Big Black Cloud!!,4,Single Tracks,2008-11-26 02:20:13,6,156,Portland OR,256000,206,Rock,Vietnam
+831,0,2008-11-26 02:23:07,2006-01-01 00:00:00,3,230,17573,blissblood.com,5,Single Tracks,2008-11-26 02:20:32,9,157,Brooklyn NY,160000,199,Jazz,Late Late Show
+832,0,2008-11-26 02:23:07,2006-01-01 00:00:00,3,230,17573,blissblood.com,5,Single Tracks,2008-11-26 02:20:32,9,157,Brooklyn NY,160000,139,Jazz,My Heart Beats Like A Hammer
+833,0,2008-11-26 02:23:07,2006-01-01 00:00:00,3,230,17573,blissblood.com,5,Single Tracks,2008-11-26 02:20:32,9,157,Brooklyn NY,160000,238,Jazz,From This Moment On
+834,0,2008-11-26 02:23:07,2006-01-01 00:00:00,3,230,17573,blissblood.com,5,Single Tracks,2008-11-26 02:20:32,9,157,Brooklyn NY,160000,183,Jazz,You Showed Me The Way
+835,0,2008-11-26 02:23:07,2006-01-01 00:00:00,3,230,17573,blissblood.com,5,Single Tracks,2008-11-26 02:20:32,9,157,Brooklyn NY,160000,269,Jazz,Ain't No Use
+836,1,2009-01-12 08:36:03,2009-01-12 00:00:00,0,1756,1599,Heroin UK,11,Album,2008-11-26 02:20:45,2,158,Baltimore MD,256000,200,Rock,Sunsplash Dreamland
+837,1,2009-01-12 08:36:03,2009-01-12 00:00:00,0,1756,1599,Heroin UK,11,Album,2008-11-26 02:20:45,2,158,Baltimore MD,256000,249,Rock,DopeSick
+838,1,2009-01-12 08:36:03,2009-01-12 00:00:00,0,1756,1599,Heroin UK,11,Album,2008-11-26 02:20:45,2,158,Baltimore MD,256000,140,Rock,Wasteland
+839,1,2009-01-12 08:36:03,2009-01-12 00:00:00,0,1756,1599,Heroin UK,11,Album,2008-11-26 02:20:45,2,158,Baltimore MD,256000,257,Rock,Just Like A Rose
+840,1,2009-01-12 08:36:03,2009-01-12 00:00:00,0,1756,1599,Heroin UK,11,Album,2008-11-26 02:20:45,2,158,Baltimore MD,256000,139,Rock,Explosions
+841,1,2009-01-12 08:36:03,2009-01-12 00:00:00,0,1756,1599,Heroin UK,11,Album,2008-11-26 02:20:45,2,158,Baltimore MD,256000,152,Rock,Big Nose
+842,1,2009-01-12 08:36:03,2009-01-12 00:00:00,0,1756,1599,Heroin UK,11,Album,2008-11-26 02:20:45,2,158,Baltimore MD,256000,175,Rock,Baby
+843,1,2009-01-12 08:36:03,2009-01-12 00:00:00,0,1756,1599,Heroin UK,11,Album,2008-11-26 02:20:45,2,158,Baltimore MD,256000,346,Rock,Today
+844,1,2009-01-12 08:36:03,2009-01-12 00:00:00,0,1756,1599,Heroin UK,11,Album,2008-11-26 02:20:45,2,158,Baltimore MD,256000,176,Rock,Don't Wanna Die
+845,1,2009-01-12 08:36:03,2009-01-12 00:00:00,0,1756,1599,Heroin UK,11,Album,2008-11-26 02:20:45,2,158,Baltimore MD,256000,183,Rock,Things You Say
+846,1,2009-01-12 08:36:03,2009-01-12 00:00:00,0,1756,1599,Heroin UK,11,Album,2008-11-26 02:20:45,2,158,Baltimore MD,256000,184,Rock,Comin Down (The Wall)
+847,0,2008-11-26 02:32:54,2008-01-01 00:00:00,0,284,2378,Little Fury Things Sampler [V/A],3,Album,2008-11-26 02:21:22,1,159,Baltimore MD,256000,1005,Pop,Rendered
+850,0,2008-11-26 02:24:12,2006-02-01 00:00:00,0,234,584,Exploding Demon,3,Album,2008-11-26 02:21:37,1,161,Baltimore MD,256000,274,Rock,Tomb Of Science
+851,0,2008-11-26 02:24:12,2006-02-01 00:00:00,0,234,584,Exploding Demon,3,Album,2008-11-26 02:21:37,1,161,Baltimore MD,256000,269,Rock,Six Realms
+852,0,2008-11-26 02:24:12,2006-02-01 00:00:00,0,234,584,Exploding Demon,3,Album,2008-11-26 02:21:37,1,161,Baltimore MD,256000,252,Rock,Escape From the Organ Chamber
+853,0,2008-11-26 02:24:22,2007-11-20 00:00:00,2,235,14409,Black Mirror: Reflections In Global Musics (1915-1955),3,Album,2008-11-26 02:21:47,0,162,,256000,137,International,Welsinsni Melodyi
+854,0,2008-11-26 02:24:24,2005-01-01 00:00:00,0,236,1447,"""Something"" Euro Tour 2005",3,Album,2008-11-26 02:21:50,19,163,Baltimore MD,256000,118,Experimental,INXS
+855,0,2008-11-26 02:24:26,,0,237,4019,No Demo,9,Album,2008-11-26 02:21:51,2,164,Chicago IL,256000,64,Rock,Aimless Journey
+856,0,2008-11-26 02:24:26,,0,237,4019,No Demo,9,Album,2008-11-26 02:21:51,2,164,Chicago IL,256000,46,Rock,Last Nail In the Coffin
+857,0,2008-11-26 02:24:26,,0,237,4019,No Demo,9,Album,2008-11-26 02:21:51,2,164,Chicago IL,256000,28,Rock,Boo Hod
+858,0,2008-11-26 02:24:26,,0,237,4019,No Demo,9,Album,2008-11-26 02:21:51,2,164,Chicago IL,256000,62,Rock,Blastered
+859,0,2008-11-26 02:24:26,,0,237,4019,No Demo,9,Album,2008-11-26 02:21:51,2,164,Chicago IL,256000,33,Rock,Take a Walk
+860,0,2008-11-26 02:24:26,,0,237,4019,No Demo,9,Album,2008-11-26 02:21:51,2,164,Chicago IL,256000,44,Rock,If I Can't Smoke & Swear I'm Fucked
+861,0,2008-11-26 02:24:26,,0,237,4019,No Demo,9,Album,2008-11-26 02:21:51,2,164,Chicago IL,256000,69,Rock,Kicking & Screaming
+862,0,2008-11-26 02:24:26,,0,237,4019,No Demo,9,Album,2008-11-26 02:21:51,2,164,Chicago IL,256000,69,Rock,Yr. Life Is a Curse
+863,0,2008-11-26 02:24:26,,0,237,4019,No Demo,9,Album,2008-11-26 02:21:51,2,164,Chicago IL,256000,90,Rock,Bariwax
+864,0,2008-11-26 02:24:39,2009-01-14 00:00:00,0,238,1181,Warm Coursing Blood,4,Album,2008-11-26 02:22:04,5,165,Baltimore MD,256000,731,Experimental,Feather
+866,0,2008-11-26 02:24:39,2009-01-14 00:00:00,0,238,1181,Warm Coursing Blood,4,Album,2008-11-26 02:22:04,5,165,Baltimore MD,256000,925,Experimental,Rain
+868,0,2008-11-26 02:24:39,2009-01-14 00:00:00,0,238,1181,Warm Coursing Blood,4,Album,2008-11-26 02:22:04,5,165,Baltimore MD,256000,571,Experimental,The Stars Are Beautiful
+869,0,2008-11-26 02:24:39,2009-01-14 00:00:00,0,238,1181,Warm Coursing Blood,4,Album,2008-11-26 02:22:04,5,165,Baltimore MD,256000,569,Experimental,A Joy Forever
+870,0,2009-01-14 12:46:31,2009-01-14 00:00:00,0,1797,201,Yeti Three,1,Album,2008-11-26 02:22:04,5,165,Baltimore MD,256000,208,Experimental,Pipe Sketch
+871,0,2008-11-26 02:25:32,2009-01-07 00:00:00,1,241,1620,Ian Nagoski &amp; Tom Carter,3,Album,2008-12-04 09:20:06,2,549,,160000,316,,Duo: Part 1
+872,0,2008-11-26 02:25:32,2009-01-07 00:00:00,1,241,1620,Ian Nagoski &amp; Tom Carter,3,Album,2008-12-04 09:20:06,2,549,,160000,157,,Duo: Part 2
+873,0,2008-11-26 02:25:32,2009-01-07 00:00:00,1,241,1620,Ian Nagoski &amp; Tom Carter,3,Album,2008-12-04 09:20:06,2,549,,160000,272,,Duo: Part 3
+874,0,2008-11-26 02:25:39,2009-01-08 00:00:00,1,242,2172,unreleased Illusion of Safety mp3s,13,Single Tracks,2008-11-26 02:23:04,7,167,Chicago IL,128000,267,Electronic,11.5.00:46  Dead Tech Chicago
+875,0,2008-11-26 02:25:39,2009-01-08 00:00:00,1,242,2172,unreleased Illusion of Safety mp3s,13,Single Tracks,2008-11-26 02:23:04,7,167,Chicago IL,192000,292,Electronic,4-27-01 hamburg (inoptrk9)
+876,0,2008-11-26 02:25:39,2009-01-08 00:00:00,1,242,2172,unreleased Illusion of Safety mp3s,13,Single Tracks,2008-11-26 02:23:04,7,167,Chicago IL,128000,185,Electronic,Acidiscipline
+877,0,2008-11-26 02:25:39,2009-01-08 00:00:00,1,242,2172,unreleased Illusion of Safety mp3s,13,Single Tracks,2008-11-26 02:23:04,7,167,Chicago IL,192000,223,Electronic,As If
+878,0,2008-11-26 02:25:39,2009-01-08 00:00:00,1,242,2172,unreleased Illusion of Safety mp3s,13,Single Tracks,2008-11-26 02:23:04,7,167,Chicago IL,128000,403,Electronic,Bad Carnival Acid
+879,0,2008-11-26 02:25:39,2009-01-08 00:00:00,1,242,2172,unreleased Illusion of Safety mp3s,13,Single Tracks,2008-11-26 02:23:04,7,167,Chicago IL,192000,102,Electronic,Cancer Trk 5
+880,0,2008-11-26 02:25:52,2009-01-12 00:00:00,0,243,2485,unreleased new recordings 2008,2,Single Tracks,2008-11-26 02:23:04,7,167,Chicago IL,128000,489,Electronic,Gravelvoice one
+881,0,2008-11-26 02:25:52,2009-01-12 00:00:00,0,243,2485,unreleased new recordings 2008,2,Single Tracks,2008-11-26 02:23:04,7,167,Chicago IL,128000,135,Electronic,I could be wrong
+882,0,2008-11-26 02:25:39,2009-01-08 00:00:00,1,242,2172,unreleased Illusion of Safety mp3s,13,Single Tracks,2008-11-26 02:23:04,7,167,Chicago IL,128000,253,Electronic,Immanent
+883,0,2008-11-26 02:25:39,2009-01-08 00:00:00,1,242,2172,unreleased Illusion of Safety mp3s,13,Single Tracks,2008-11-26 02:23:04,7,167,Chicago IL,128000,177,Electronic,Immerse (exc)
+885,0,2008-11-26 02:25:39,2009-01-08 00:00:00,1,242,2172,unreleased Illusion of Safety mp3s,13,Single Tracks,2008-11-26 02:23:04,7,167,Chicago IL,192000,130,Electronic,Live Lisbon two 2-19-08
+886,0,2008-11-26 02:25:39,2009-01-08 00:00:00,1,242,2172,unreleased Illusion of Safety mp3s,13,Single Tracks,2008-11-26 02:23:04,7,167,Chicago IL,128000,175,Electronic,ORD
+887,0,2008-11-26 02:25:39,2009-01-08 00:00:00,1,242,2172,unreleased Illusion of Safety mp3s,13,Single Tracks,2008-11-26 02:23:04,7,167,Chicago IL,128000,184,Electronic,Rules of the game (pt 1)
+888,0,2008-11-26 02:25:39,2009-01-08 00:00:00,1,242,2172,unreleased Illusion of Safety mp3s,13,Single Tracks,2008-11-26 02:23:04,7,167,Chicago IL,192000,437,Electronic,Time Remaining
+889,0,2008-11-26 02:25:39,2009-01-08 00:00:00,1,242,2172,unreleased Illusion of Safety mp3s,13,Single Tracks,2008-11-26 02:23:04,7,167,Chicago IL,128000,473,Electronic,Wasteland
+890,0,2008-11-26 02:26:13,2009-01-06 00:00:00,0,245,3032,Century of Moonlight,3,Single Tracks,2008-11-26 02:23:38,14,168,Portland OR,256000,297,Folk,Softly Tomorrow
+891,0,2008-11-26 02:26:13,2009-01-06 00:00:00,0,245,3032,Century of Moonlight,3,Single Tracks,2008-11-26 02:23:38,14,168,Portland OR,256000,402,Folk,Your One Mind
+892,0,2008-11-26 02:26:21,2008-03-01 00:00:00,0,246,1945,The Vertigo of Dawn,3,Single Tracks,2008-11-26 02:23:38,14,168,Portland OR,256000,480,Folk,Phantom Sky
+893,0,2008-11-26 02:26:13,2009-01-06 00:00:00,0,245,3032,Century of Moonlight,3,Single Tracks,2008-11-26 02:23:38,14,168,Portland OR,256000,446,Folk,The Gathering
+894,0,2008-11-26 02:26:21,2008-03-01 00:00:00,0,246,1945,The Vertigo of Dawn,3,Single Tracks,2008-11-26 02:23:38,14,168,Portland OR,256000,289,Folk,Moon Falling
+895,0,2008-11-26 02:26:21,2008-03-01 00:00:00,0,246,1945,The Vertigo of Dawn,3,Single Tracks,2008-11-26 02:23:38,14,168,Portland OR,256000,340,Folk,Unveiled Nightmare
+896,0,2008-11-26 02:26:38,2009-01-12 00:00:00,0,247,1608,Impediments,1,Album,2008-11-26 02:24:02,2,169,San Francisco CA,160000,274,Rock,2012
+897,0,2008-11-26 02:26:40,2009-01-12 00:00:00,0,248,3315,White Hymn,3,Album,2008-11-26 02:24:04,1,170,Pasadena CA,256000,275,Experimental,2
+898,0,2008-11-26 02:26:40,2009-01-12 00:00:00,0,248,3315,White Hymn,3,Album,2008-11-26 02:24:04,1,170,Pasadena CA,256000,229,Experimental,09 (extended version)
+899,0,2008-11-26 02:26:40,2009-01-12 00:00:00,0,248,3315,White Hymn,3,Album,2008-11-26 02:24:04,1,170,Pasadena CA,256000,860,Experimental,10
+900,0,2008-11-26 02:26:54,2009-01-06 00:00:00,0,249,2024,Play Guitar For You,4,Album,2008-11-26 02:24:19,0,171,Portland OR,160000,399,,This Dawn Is As Fresh and Juicy As a Ripe Peach
+901,0,2008-11-26 02:26:54,2009-01-06 00:00:00,0,249,2024,Play Guitar For You,4,Album,2008-11-26 02:24:19,0,171,Portland OR,160000,200,,The Gum Trees
+902,0,2008-11-26 02:26:54,2009-01-06 00:00:00,0,249,2024,Play Guitar For You,4,Album,2008-11-26 02:24:19,0,171,Portland OR,160000,233,,Lethe
+903,0,2008-11-26 02:26:54,2009-01-06 00:00:00,0,249,2024,Play Guitar For You,4,Album,2008-11-26 02:24:19,0,171,Portland OR,160000,251,,For Sally Soloway
+904,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,176688,135,Spoken,Above The Sun
+905,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,197521,135,Spoken,After A While
+906,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,174432,132,Spoken,Aint This
+907,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,172816,199,Spoken,All I Have To Say
+908,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,194715,183,Spoken,Aplle Pie
+909,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,181440,127,Spoken,Apple Apple
+910,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,117808,57,Spoken,Apple Pear
+911,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,179580,204,Spoken,Come And See
+912,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,193503,221,Spoken,Come On
+913,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,132658,168,Spoken,Diamonds And Rubies
+914,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,178945,101,Spoken,Go Ahead
+915,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,106362,121,Spoken,Good Fine Sure And True
+916,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,160000,120,Spoken,Handle Them Snakes
+917,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,165836,129,Spoken,Hear The Call
+918,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,139228,219,Spoken,Here's Our Time
+919,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,173862,145,Spoken,Here We Stand
+920,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,130005,203,Spoken,Hey Hey Hey
+921,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,156114,254,Spoken,I Agree With The Access
+922,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,115772,173,Spoken,I Am Storing
+923,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,190818,173,Spoken,I Tell You What
+924,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,129526,453,Spoken,I Think You're Cool
+925,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,162620,189,Spoken,I Wanna Be The One
+926,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,179491,123,Spoken,I'm A Fan
+927,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,163935,136,Spoken,it's hard so hard
+928,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,138440,156,Spoken,It's Our Quest
+929,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,199355,155,Spoken,Jack Duggins 2008
+930,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,156481,92,Spoken,Kisses And Hugs
+931,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,123776,96,Spoken,LaLaLaHa
+932,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,170276,159,Spoken,Last night
+933,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,170091,184,Spoken,Listen To The Guitar Strum
+934,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,157232,184,Spoken,More
+935,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,168332,206,Spoken,My Sure Cure
+936,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,203233,180,Spoken,No Complication
+937,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,130109,195,Spoken,Not No
+938,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,180969,216,Spoken,On And On
+939,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,168211,213,Spoken,Open Your Eyes
+940,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,166482,128,Spoken,Perfect Ways
+941,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,186521,172,Spoken,Ready Steady
+942,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,172697,159,Spoken,Rockin On The Good Side
+943,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,167226,191,Spoken,Soda Pop
+944,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,182956,81,Spoken,Solid Gold Heart
+945,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,190038,155,Spoken,Stand Up For The Good
+946,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,176396,68,Spoken,Step Up To The Plate
+947,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,183669,138,Spoken,Sweet Taste
+948,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,169446,128,Spoken,The Opposite
+949,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,186159,125,Spoken,The Prettiest Star
+950,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,173118,201,Spoken,The Real Stuff
+951,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,153128,120,Spoken,The Sun Above
+952,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,175105,154,Spoken,The Sunshine
+953,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,148295,110,Spoken,Think About
+954,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,164644,95,Spoken,This Day Shall Not Fall
+955,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,176662,188,Spoken,Together We Will
+956,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,164578,126,Spoken,We Try So Hard
+957,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,122417,143,Spoken,We Will Not Rust
+958,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,149824,195,Spoken,Welcome To The Garden
+959,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,178272,152,Spoken,We're Not Afraid
+960,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,151828,117,Spoken,What Do You Think?
+961,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,192202,205,Spoken,What We've Got
+962,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,153201,258,Spoken,With Me
+963,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,193628,158,Spoken,With The Good Side
+964,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,168715,178,Spoken,With The Knowledge
+965,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,174524,103,Spoken,YaYaYa
+966,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,158510,161,Spoken,Yes We Will
+967,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,190011,111,Spoken,You Got A Hold
+968,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,197019,163,Spoken,You Got A Way
+969,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,203981,148,Spoken,You Got A Way pt 2
+970,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,160750,129,Spoken,You Got It
+971,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,181309,65,Spoken,You Got Me
+972,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,185908,205,Spoken,You Got Me In A Spin
+973,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,183386,128,Spoken,You Know What I Think?
+974,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,156700,192,Spoken,Your Theory
+975,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,172966,149,Spoken,make the best of the day
+976,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,160971,124,Spoken,the angels are on my side
+977,0,2008-11-26 02:27:03,2009-01-08 00:00:00,0,250,8281,mp3,74,Single Tracks,2008-11-26 02:24:27,11,172,,176295,225,Spoken,the two of us
+978,0,2008-11-26 02:28:47,2009-01-12 00:00:00,0,251,750,Thee Haunted Cobblestone Sunset Concert Series #5,13,Live Performance,2008-11-26 02:26:11,1,173,Providence RI,192000,368,Experimental,Track 01
+979,0,2008-11-26 02:28:47,2009-01-12 00:00:00,0,251,750,Thee Haunted Cobblestone Sunset Concert Series #5,13,Live Performance,2008-11-26 02:26:11,1,173,Providence RI,192000,58,Experimental,Track 02
+980,0,2008-11-26 02:28:47,2009-01-12 00:00:00,0,251,750,Thee Haunted Cobblestone Sunset Concert Series #5,13,Live Performance,2008-11-26 02:26:11,1,173,Providence RI,192000,149,Experimental,Track 03
+981,0,2008-11-26 02:28:47,2009-01-12 00:00:00,0,251,750,Thee Haunted Cobblestone Sunset Concert Series #5,13,Live Performance,2008-11-26 02:26:11,1,173,Providence RI,192000,182,Experimental,Track 04
+982,0,2008-11-26 02:28:47,2009-01-12 00:00:00,0,251,750,Thee Haunted Cobblestone Sunset Concert Series #5,13,Live Performance,2008-11-26 02:26:11,1,173,Providence RI,192000,101,Experimental,Track 05
+983,0,2008-11-26 02:28:47,2009-01-12 00:00:00,0,251,750,Thee Haunted Cobblestone Sunset Concert Series #5,13,Live Performance,2008-11-26 02:26:11,1,173,Providence RI,192000,37,Experimental,Track 06
+984,0,2008-11-26 02:28:47,2009-01-12 00:00:00,0,251,750,Thee Haunted Cobblestone Sunset Concert Series #5,13,Live Performance,2008-11-26 02:26:11,1,173,Providence RI,192000,328,Experimental,Track 07
+985,0,2008-11-26 02:28:47,2009-01-12 00:00:00,0,251,750,Thee Haunted Cobblestone Sunset Concert Series #5,13,Live Performance,2008-11-26 02:26:11,1,173,Providence RI,192000,191,Experimental,Track 08
+986,0,2008-11-26 02:28:47,2009-01-12 00:00:00,0,251,750,Thee Haunted Cobblestone Sunset Concert Series #5,13,Live Performance,2008-11-26 02:26:11,1,173,Providence RI,192000,118,Experimental,Track 09
+987,0,2008-11-26 02:28:47,2009-01-12 00:00:00,0,251,750,Thee Haunted Cobblestone Sunset Concert Series #5,13,Live Performance,2008-11-26 02:26:11,1,173,Providence RI,192000,109,Experimental,Track 10
+988,0,2008-11-26 02:28:47,2009-01-12 00:00:00,0,251,750,Thee Haunted Cobblestone Sunset Concert Series #5,13,Live Performance,2008-11-26 02:26:11,1,173,Providence RI,192000,313,Experimental,Track 11
+989,0,2008-11-26 02:28:47,2009-01-12 00:00:00,0,251,750,Thee Haunted Cobblestone Sunset Concert Series #5,13,Live Performance,2008-11-26 02:26:11,1,173,Providence RI,192000,350,Experimental,Track 12
+990,0,2008-11-26 02:28:47,2009-01-12 00:00:00,0,251,750,Thee Haunted Cobblestone Sunset Concert Series #5,13,Live Performance,2008-11-26 02:26:11,1,173,Providence RI,192000,138,Experimental,Track 13
+991,0,2008-11-26 02:29:10,,0,252,4404,The Sounds of Megaphone Unlimited,3,Album,2008-11-26 02:26:34,4,174,Baltimore MD,256000,178,Rock,Song Recorded Immediately Upon Return from X-Ray Eyes tour '96
+992,0,2008-11-26 02:29:10,,0,252,4404,The Sounds of Megaphone Unlimited,3,Album,2008-11-26 02:26:34,4,174,Baltimore MD,256000,133,Rock,Beautiful Song w/ kick drum solo
+993,0,2008-11-26 02:29:10,,0,252,4404,The Sounds of Megaphone Unlimited,3,Album,2008-11-26 02:26:39,1,175,Los Angeles CA,256000,86,Rock,Or So I've Been Told
+995,0,2008-11-26 02:29:18,2007-01-01 00:00:00,0,255,5921,The Death of Patience,5,Album,2008-11-26 02:26:43,12,177,Los Angeles CA,256000,298,Experimental,No Good Deed Goes Unpunished
+996,0,2008-11-26 02:29:23,2006-01-01 00:00:00,0,256,193,Unending Shame,1,Album,2008-11-26 02:26:43,12,177,Los Angeles CA,256000,429,Experimental,Time and the Hunter
+997,0,2008-11-26 02:29:18,2007-01-01 00:00:00,0,255,5921,The Death of Patience,5,Album,2008-11-26 02:26:43,12,177,Los Angeles CA,256000,520,Experimental,Nothing's Ever Ending
+998,0,2008-11-26 02:29:18,2007-01-01 00:00:00,0,255,5921,The Death of Patience,5,Album,2008-11-26 02:26:43,12,177,Los Angeles CA,256000,475,Experimental,Apparently
+999,0,2008-11-26 02:29:18,2007-01-01 00:00:00,0,255,5921,The Death of Patience,5,Album,2008-11-26 02:26:43,12,177,Los Angeles CA,256000,635,Experimental,Catholic Guilt
+1000,0,2008-11-26 02:29:18,2007-01-01 00:00:00,0,255,5921,The Death of Patience,5,Album,2008-11-26 02:26:43,12,177,Los Angeles CA,256000,643,Experimental,Bless You
+1001,0,2008-11-26 02:29:53,2006-01-01 00:00:00,0,257,235,False Prophet,1,Album,2008-11-26 02:26:43,12,177,Los Angeles CA,256000,720,Experimental,6.05.06
+1002,0,2008-11-26 02:30:00,2007-01-01 00:00:00,0,258,211,Cavity Fever,1,Album,2008-11-26 02:26:43,12,177,Los Angeles CA,256000,348,Experimental,Homely Straw
+1003,0,2008-11-26 02:30:03,2009-01-01 00:00:00,0,259,80,Hair Line,1,Album,2008-11-26 02:26:43,12,177,Los Angeles CA,256000,51,Experimental,"Sterile Beginning, Wimp"
+1004,0,2008-11-26 02:30:05,,0,260,71,split w/ Solitary Hunter,1,Album,2008-11-26 02:26:43,12,177,Los Angeles CA,256000,298,Experimental,Vibrating Corpse
+1006,0,2008-11-26 02:30:19,,0,262,80,Anarchy Is Gay,1,Album,2008-11-26 02:27:42,0,179,,256000,377,Experimental,At II Corral 3
+1007,0,2008-11-26 02:30:25,2006-01-01 00:00:00,0,263,838,King Kong Ding Dong,6,Album,2008-11-26 02:27:49,22,180,Philadelphia PA,256000,325,Rock,Heya
+1009,0,2008-11-26 02:30:25,2006-01-01 00:00:00,0,263,838,King Kong Ding Dong,6,Album,2008-11-26 02:27:49,22,180,Philadelphia PA,256000,212,Rock,South Street Bridge

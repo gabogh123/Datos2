@@ -27,14 +27,15 @@ MainWindow::MainWindow(QWidget *parent)
     mManager = new MemoryManager(this);
     mModel = new QStandardItemModel(this);
 
+
 /// Se establece el modelo para el tableView
 
     ui->tableView->setModel(mModel);
 ///Se editan los headears y se elimina la opción de editar las casillas de la tabla
     ui->tableView->setStyleSheet("QHeaderView::section { background-color:red }");
     ui->tableView->setEditTriggers(QAbstractItemView :: NoEditTriggers);
-    //ui->tableView->hideRow(5)
-    setWindowTitle("OdisseyRadio");
+    ui->tableView->setSortingEnabled(true);
+
 
 /// Se crea el player como un objeto de la clase QMediaPlayer
 
@@ -137,7 +138,7 @@ void MainWindow::loadPage(int size)
     }}
 
 /// Carga la pagina dependiendo el numero de pagina
-///
+
         if(!paginate){
         while(!xin.atEnd()){
             auto line =xin.readLine();
@@ -186,9 +187,9 @@ void MainWindow::on_pushButton_clicked()
     QString userName = getlogin(); /// Obtiene el login del PC para que funcione en muchos equipos
 
 
-    //player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Proyecto1/Canciones/" + val+".mp3")); /// Obtiene la dirección del archivo .mp3 y reproduce el archivo del nombre igual a la variable val
+    player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Proyecto1/Canciones/" + val+".mp3")); /// Obtiene la dirección del archivo .mp3 y reproduce el archivo del nombre igual a la variable val
     //URL deseada
-    player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Proyecto1/Datos2/Canciones/" + val+".mp3"));
+    //player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Proyecto1/Datos2/Canciones/" + val+".mp3"));
 
     player ->play(); /// El MediaPlayer reproduce la cancion
 
@@ -294,6 +295,9 @@ void MainWindow::on_pushButton_3_clicked()
 {
     t_count +=1;
     loadPage(15);
+
+
+
 }
 
 /**

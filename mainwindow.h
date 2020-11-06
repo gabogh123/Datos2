@@ -71,5 +71,11 @@ private:
     QFile* file;
     int t_count;
     bool paginate;
+
+    QStringList titulos {"Track ID","Album comments", "Album Date_created", "Album Date_released",
+                        "Album favorites", "Album ID", "Album listens", "Album title",
+                        "Album tracks", "Album type", "Artist date_created", "Artist favorites",
+                        "Artist id","Artist location", "Track bit_rate", "Track duration",
+                        "Track genre_top","Track title"};
 };
 #endif // MAINWINDOW_H
