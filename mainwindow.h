@@ -67,10 +67,11 @@ private:
     QMediaPlayer* player;
     void setValueAt(int ix, int jx, const QString &value);
     int convertToint(double);
-    void loadPage(int);
+    void loadPage();
     QFile* file;
     int t_count;
     bool paginate;
+    bool firstTime;
 
     QStringList titulos {"Track ID","Album comments", "Album Date_created", "Album Date_released",
                         "Album favorites", "Album ID", "Album listens", "Album title",

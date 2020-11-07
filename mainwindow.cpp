@@ -60,6 +60,9 @@ MainWindow::MainWindow(QWidget *parent)
 
 /// Modo paginacion
     paginate = true;
+
+/// Flag primera vez carga el archivo
+    firstTime = false;
 }
 
 MainWindow::~MainWindow()
@@ -88,10 +91,16 @@ void MainWindow::on_actionAbrir_triggered()
     file = new QFile(filename);
 
 /// Carga la pagina
-    loadPage(15);
+    loadPage();
+    firstTime = true;
 }
 
-void MainWindow::loadPage(int size)
+
+/**
+ * @brief MainWindow::loadPage
+ * Su funcion es cargar el archivo seleccionado en la interfaz
+ */
+void MainWindow::loadPage()
 {
 /// Carga el archivo del nombre que sea seleccionado y si estos son de solo lectura o texto, son abiertos
     if (!file->open(QIODevice::ReadOnly|QIODevice::Text)){
@@ -101,6 +110,7 @@ void MainWindow::loadPage(int size)
     QTextStream xin(file);
     int i = 0;
     int ix = 0;
+    int size = 15;
 
 /// Carga la primera pagina
     if(t_count==1){
@@ -186,10 +196,9 @@ void MainWindow::on_pushButton_clicked()
     QString val = ui->tableView->currentIndex().data().toString(); /// Reconoce la casilla seleccionada y pasa el valor de esta a String y lo almacena en una variable
     QString userName = getlogin(); /// Obtiene el login del PC para que funcione en muchos equipos
 
-
-    player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Proyecto1/Canciones/" + val+".mp3")); /// Obtiene la dirección del archivo .mp3 y reproduce el archivo del nombre igual a la variable val
-    //URL deseada
-    //player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Proyecto1/Datos2/Canciones/" + val+".mp3"));
+/// Obtiene la dirección del archivo .mp3 y reproduce el archivo del nombre igual a la variable val
+    //player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Proyecto1/Canciones/" + val+".mp3"));
+    player ->setMedia(QUrl::fromLocalFile("/home/"+userName+"/Proyecto1/Datos2/Canciones/" + val+".mp3"));
 
     player ->play(); /// El MediaPlayer reproduce la cancion
 
@@ -283,8 +292,11 @@ int MainWindow::convertToint(double db)
  */
 void MainWindow::on_pushButton_4_clicked()
 {
+    if(firstTime == false){
+        return;
+    }
     t_count -=1;
-    loadPage(15);
+    loadPage();
 }
 
 /**
@@ -293,8 +305,11 @@ void MainWindow::on_pushButton_4_clicked()
  */
 void MainWindow::on_pushButton_3_clicked()
 {
+    if(firstTime == false){
+        return;
+    }
     t_count +=1;
-    loadPage(15);
+    loadPage();
 
 
 
@@ -306,13 +321,16 @@ void MainWindow::on_pushButton_3_clicked()
  */
 void MainWindow::on_pushButton_5_clicked()
 {
+    if(firstTime == false){
+        return;
+    }
     if(paginate==true){
         ui->pushButton_5->setText("No paginate");
         paginate = false;
-        loadPage(15);
+        loadPage();
     }else{
         ui->pushButton_5->setText("Paginate");
         paginate = true;
-        loadPage(15);
+        loadPage();
     }
 }
